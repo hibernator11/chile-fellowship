@@ -24,6 +24,10 @@ The Eltit-Rosenfeld Archive is a documentary collection created by the artist Lo
 
 Please, note that the datasets used in this project have separate licences.
 
+## Acknowledgements
+
+We would like to thank the Pontificia Universidad Católica de Chile for giving us the opportunity to perform this work as part of a fellowship.
+
 ## References
 
 - https://www.glamlabs.io/
