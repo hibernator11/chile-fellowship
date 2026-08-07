@@ -26,3 +26,4 @@ Please, note that the datasets used in this project have separate licences.
 ## References
 
 - https://www.glamlabs.io/
+- https://collectionsasdata.github.io/
