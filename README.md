@@ -1,7 +1,7 @@
 # chile-fellowship
 Reproducible code to create Collection as data as part of the fellowship at the Pontificia Universidad Católica de Chile
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/chile-fellowship/tree/main/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/chile-fellowship/HEAD)
 
 ## Introduction
 This work was done as part of a fellowship at the Pontificia Universidad Católica de Chile in August 2026. Several collections were selected and transformed into RDF using reproducible code. The datasets were reused using different methods and techniques.
