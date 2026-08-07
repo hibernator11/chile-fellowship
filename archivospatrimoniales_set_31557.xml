@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="static/style.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2026-08-06T15:07:10Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="com_123456789_31557">https://archivospatrimoniales.uc.cl/oai/request</request><ListRecords>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31660</identifier><datestamp>2025-07-15T15:46:25Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Collage de fotografías de María de la Cruz</dc:title>
+<dc:description>Collage de dos fotos en blanco y negro. Una de ellas muestra, parte de un desfile de Partido Feminista en Chile y la otra a María de la Cruz sentada junto a un hombre.</dc:description>
+<dc:date>2020-09-10T02:59:52Z</dc:date><dc:date>2020-09-10T02:59:52Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_14</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31660</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31672</identifier><datestamp>2025-07-15T15:46:29Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz junto a su hijo en Buenos Aires</dc:title>
+<dc:description>Fotografía apaisada en blanco y negro. Aparece María de la Cruz junto a su hijo y un par de caballos en Buenos Aires.</dc:description>
+<dc:date>2020-09-10T02:59:58Z</dc:date><dc:date>2020-09-10T02:59:58Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_04</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31672</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31667</identifier><datestamp>2025-07-15T15:46:32Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Matrimonio civil del hijo Joaquín de María de la Cruz, con su legítima esposa Violeta</dc:title>
+<dc:description>Fotografía apaisada en blanco y negro.  María de la Cruz al extremo derecho, en compañía de un hombre y dos parejas, en el matrimonio civil de su hijo. Al reverso de la fotografía: Matrimonio civil de mi hijo Joaquín, con su legítima esposa Violeta Galvez y Mariano Fontecilla (M. de justicia).</dc:description>
+<dc:date>2020-09-10T02:59:55Z</dc:date><dc:date>2020-09-10T02:59:55Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_20</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31667</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31571</identifier><datestamp>2025-07-15T15:48:19Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fotos Sra. E. Caffarena</dc:title>
+<dc:description>Fotografías de Elena Caffarena (abogada y activista política feminista chilena), además de otras variadas fotografias de diarios, personajes y acontecimientos de comienzos del siglo XX en Chile. Se muestra también material audiovisual donde aparece una actriz (Maricarmen Arrigorriaga) hablando de cuándo la mujer obtuvo derecho a voto en 1934, sin embargo, aún se buscaba el voto político sin restricciones para la mujer. Luego, esta actriz toma la voz de la Doctora Eloísa Díaz. Después, otra actriz (***) habla del MEMCH y la celebración de algunos congresos internacionales de este, también comenta de la realización del Primer Congreso Nacional de Mujeres de Chile en 1944, donde se crea la FECHIF (Federación Chile de Instituciones Femeninas). Posteriormente, aparece la actriz Rebeca Ghigliotto comentando acerca de la promulgación del voto político a la mujer en 1949. En otra escena hay cuatro actrices, y una de ellas (Maricarmen Arrigorriaga) cita algunas palabras del presidente Alessandri Palma respecto a la mujer en los años de su presidencia. Luego, otra de las actrices dirige su palabra como mujer a aquellas que han luchado y asumido la responsabilidad de servir en la vanguardia. Se muestra otra escena con cinco actrices, donde estas se ponen a caminar, retirándose del plano de la cámara, por la Estación Central. Se observan imágenes (sin audio) de las cinco actrices moviéndose por la Estación Central, reorganizándose, hay una toma picada donde una de las actrices observa directamente a la cámara. Hay una toma de las pantorillas y pies de una de las mujeres, con falda y tacones, que se retira del plano. Hay otra de esta mujer alejándose de la cámara y también hay una donde se acerca a esta y anuncia el avecinamiento de la aurora de las organizaciones femeninas de Chile. Esta última actriz comenta acerca de los gobiernos fugaces luego del de Carlos Ibáñez del Campo.</dc:description>
+<dc:description>https://youtu.be/YF8qxZErn8s</dc:description>
+<dc:date>2020-06-09T16:53:09Z</dc:date><dc:date>2020-06-09T16:53:09Z</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 12 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31571</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Minidv, 60 min.</dc:format><dc:format>image/png</dc:format><dc:format>video/mp4</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31665</identifier><datestamp>2025-07-15T15:46:35Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz en compañía a Clarita Noguera y otra mujer</dc:title>
+<dc:description>Fotografía vertical en blanco y negro.  María de la Cruz en compañía de Clarita Noguera y otra mujer sentadas. Al reverso de la fotografía: Bungalow n°3 de la colonia F.E.P. embalse C.B.A. Aquí vivi un mes en Argentina Córdoba, estoy con Clarita Noguera de Biandri.</dc:description>
+<dc:date>2020-09-10T02:59:54Z</dc:date><dc:date>2020-09-10T02:59:54Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_19</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31665</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31656</identifier><datestamp>2025-07-15T15:46:37Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz en una comida</dc:title>
+<dc:description>"Fotografía apaisada en blanco y negro. Aparece atrás a la izquierda, María de la Cruz al lado "Tatin" Letelier, en una comida. Se observan en una convivencia social un grupo de personas."</dc:description>
+<dc:date>2020-09-10T02:59:47Z</dc:date><dc:date>2020-09-10T02:59:47Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_10</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31656</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31710</identifier><datestamp>2025-07-15T15:47:22Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Manuscrito  "Extractos de pensamientos de otros que coinciden con los míos"</dc:title>
+<dc:description>Manuscrito titulado "Extractos de pensamientos de otros que coinciden con los míos", fechado en el año 1980, en este se comenta sobre el afecto, el amor, el capitalismo, la mentira del comunismo, entre otros.</dc:description>
+<dc:date>2020-10-21T16:03:51Z</dc:date><dc:date>2020-10-21T16:03:51Z</dc:date><dc:date>1980</dc:date>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>01_06_12</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31710</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>2 hojas.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31562</identifier><datestamp>2025-07-15T15:48:20Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Estación actrices sufragio. Material de Cámara</dc:title>
+<dc:description>Material audiovisual de la Segunda Guerra Mundial, específicamente de los nazis y Hitler en particular. Luego, se comienza a hablar de Elena Caffarena a modo de introducción biográfica, lo cual se reitera varias veces. Posteriormente se presenta material audiovisual, a modo de montaje, con la voz en off que comenta la introducción biográfica de Elena Caffarena. Visualmete, hay cuatro actrices, primero una de ellas camina derecho mientras canta una canción (Maricarmen Arrigorriaga), después una de las tres (Rebeca Ghigliotto) que están sentadas en una banca se para. Luego esto se vuelve a reiterar pero alterando la voz de la actriz que canta mientras camina. Se empieza a hablar de la situación de las mujeres después de la crisis producida por la Primera Guerra Mundial con imágenes de esta de fondo y de la actriz que canta y camina a la vez. Además aparece la imagen de cuatro actrices paradas de frente a la cámara y la de ua mujer en primer plano con el cabello rizado, mirando hacia abajo, a los lados y arriba. Aparece la imagen de un libro y recortes de un diario mientras se continúa hablando acerca de la situación de las mujeres, alrededor de los años 20 en Chile. Se realizan preguntas hacia Elena Caffarena mientras se observa el libro y los recortes mencionados. Se muestra a la actriz Maricarmen Arrigorriaga de frente en primer plano y luego un poco más distante. Después aparece una toma picada de las cinco actrices en Estación Central. Hay variadas imágenes una tras otra y aparece el nombre "Amanda Labarca". Se ve a una mujer con un computador, ella se siente y hace una última pregunta para Elena Caffarena: "¿Cómo ve usted hoy la situación de la mujere en Chile?". Se repite la toma picada de las cinco actrices, que luego salen del plano. Finalmente se ve un montaje de imágenes en marcha atrás.</dc:description>
+<dc:description>https://youtu.be/OtvITzlVYtw</dc:description>
+<dc:date>2020-06-09T16:53:08Z</dc:date><dc:date>2020-06-09T16:53:08Z</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 03  Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31562</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Umatic, 21 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31666</identifier><datestamp>2025-07-15T15:46:39Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Edicia Toledo madre de María de la Cruz</dc:title>
+<dc:description>Retrato antiguo en sepia con marco ovalado. Se observa una niña pequeña sentada en una silla para ser fotografiada, al parecer la abuela de María de la Cruz. Al reverso de la  fotografía: Recuerdo de mi querida abuelita Edicia Toledo.</dc:description>
+<dc:date>2020-09-10T02:59:55Z</dc:date><dc:date>2020-09-10T02:59:55Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_02</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31666</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31567</identifier><datestamp>2025-07-15T15:48:20Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Documental mujeres. Material de Cámara. Actrices Cámara</dc:title>
+<dc:description>Se muestra a dos actrices (María Elena Duvauchelle y...) subiendo la escalera del Edificio del Ex Congreso Nacional con vestuario de los años 20 en Chile. Poteriormente se ve una toma donde pasa una ellas, luego la otra entra a una sala. Se observa una toma de los zapatos de esta mujer en esa sala. Posteriormente aparece la toma de una actriz tras una puerta de vidrio observando fijamente a través de esta. Luego, hay tomas de otra actriz (María Elena Duvauchelle) caminando preocupada y atravesando unas puertas por lo que parece el interior del Ex Congreso Nacional. Esta actriz después entra a la sala de sesiones del congreso, donde se observan otras tres actrices más, la escena se sitúa en 1914 y estas mujeres actúan como si fueran hombres. Después, aparecen retirándose de la sala de sesiones. Continúa otra escena donde se ve a una actriz (María Elena Duvauchelle) en medio de la sala de sesiones observando a su alrededor y retirándose de esta. Aparece otra actriz realizando una escena muy similar a la anterior.  Se muestra otra escena donde una actriz entra al estrado de sillas del congreso, un hombre sale y ella se sienta en su lugar. Luego, dos actrices entran a la sala de sesiones una de ellas se desabrocha su chaqueta y la otra se sienta. Una de las demás actrices aparece en un primer plano y comienza a hablar iniciando la sesión del congreso (1953) donde se resolvería la inhabilitación de María de la Cruz.</dc:description>
+<dc:description>https://youtu.be./w5aIhbq4pF8</dc:description>
+<dc:date>2020-06-09T16:53:08Z</dc:date><dc:date>2020-06-09T16:53:08Z</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 08 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31567</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Betacam SP, 60 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31658</identifier><datestamp>2025-07-15T15:46:41Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz posando en el Arrayán</dc:title>
+<dc:description>Fotografía a color de María de la Cruz posando en El Arrayán, fechada en diciembre de 1976.</dc:description>
+<dc:date>2020-09-10T02:59:49Z</dc:date><dc:date>2020-09-10T02:59:49Z</dc:date><dc:date>diciembre 1976</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_12</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31658</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31706</identifier><datestamp>2025-07-15T15:47:25Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Escrito de un poema para María de la Cruz.</dc:title>
+<dc:description>Escrito mecanografiado de un poema para María de la Cruz donde se le halaga, la autora es Nina Donoso Correa.</dc:description>
+<dc:date>2020-10-21T16:03:51Z</dc:date><dc:date>2020-10-21T16:03:51Z</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01_06_08</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31706</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31563</identifier><datestamp>2025-07-15T15:48:21Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Material de Cámara Baile Meneca</dc:title>
+<dc:description>Se muestra música folclórica mientras una mujer (Fedora Fonseca) aparece vestida elegantemente en Estación Central de noche. La mujer comienza a bailar con un hombre también de apariencia elegante (Rodrigo Fernández) y llega el tren, este último queda detenido en el lugar. Se observa una toma picada de cinco mujeres, la toma va acercándose a ellas de frente y una comienza a hablar sin escuchársele. Después vuelve a mostrarse la toma picada y las mujeres se ven reorganizando sus posiciones en el espacio, entre eso se observa un primer plano desde arriba de una de las actrices. Aparecen las pantorrillas y pies de una mujer con falda y zapatos de taco alto caminando, junto a esto otras tomas de la mujer caminando, se le ve de cuerpo entero y comienza a comentar de las organizaciones femeninas en Chile, de la situación social en el gobierno de Carlos Ibánez del Campo. Luego se ve a otra de las actrices (Maricarmen Arrigorriaga) hablar del derecho a voto obtenido por la mujer en el gobierno de Arturo Alessandri Palma.</dc:description>
+<dc:description>https://youtu.be/3ErG4vwh6ho</dc:description>
+<dc:date>2020-06-09T16:53:08Z</dc:date><dc:date>2020-06-09T16:53:08Z</dc:date><dc:date>1992-1993?</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 04 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31563</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Umatic, 21 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31677</identifier><datestamp>2025-07-15T15:46:43Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz y Julio Justiniano</dc:title>
+<dc:description>Fotografía apaisada en blanco y negro. María de la Cruz, acompañada de Julio Justiniano.  Al reverso de la fotografía: María de la Cruz que ayer fue proclamada candidata a senador por la juventud de la "Unión Nacional de Independientes" acompañada de Julio Justiniano P. que también fue proclamado candidato por el tercer distrito. Ambas candidaturas fueron proclamadas con entusiasmo por unanimidad.</dc:description>
+<dc:date>2020-09-10T03:00:03Z</dc:date><dc:date>2020-09-10T03:00:03Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_09</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31677</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31657</identifier><datestamp>2025-07-15T15:46:46Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz</dc:title>
+<dc:description>"Negativos de rollo de cámara de dos fotos en blanco y negro, en una de ellas aparece María de la Cruz junto a un hombre y en la otra se observa un campo."</dc:description>
+<dc:date>2020-09-10T02:59:48Z</dc:date><dc:date>2020-09-10T02:59:48Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_11</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31657</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31719</identifier><datestamp>2025-07-15T15:47:29Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Carta mecanografiada de María de la Cruz dirigida al presidente Jorge Alessandri</dc:title>
+<dc:description>Carta mecanografiada de María de la Cruz dirigida al presidente Jorge Alessandri con fecha 8 de junio de 1961. En esta le rinde homenaje, le muestra su admiración hacia él y le da sus bendiciones.</dc:description>
+<dc:date>2020-10-21T16:03:53Z</dc:date><dc:date>2020-10-21T16:03:53Z</dc:date><dc:date>08-06-1971</dc:date>
+<dc:type>Carta</dc:type>
+<dc:identifier>01_10_08</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31719</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31700</identifier><datestamp>2025-07-15T15:47:31Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Manuscrito "Pensamientos"</dc:title>
+<dc:description>Manuscrito titulado "Pensamientos", habla acerca de la soledad, la inteligencia, entre otras cosas.</dc:description>
+<dc:date>2020-10-21T16:03:49Z</dc:date><dc:date>2020-10-21T16:03:49Z</dc:date>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>01_06_01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31700</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>2  hojas.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31673</identifier><datestamp>2025-07-15T15:46:47Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz</dc:title>
+<dc:description>Fotografía recortada en blanco y negro. Aparece María de la Cruz, a mano izquierda junto a una mujer que posa la mano en su hombro.</dc:description>
+<dc:date>2020-09-10T02:59:58Z</dc:date><dc:date>2020-09-10T02:59:58Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_05</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31673</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31704</identifier><datestamp>2025-07-15T15:47:34Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Escrito titulado "Pensamientos" de Khalil Gibrán</dc:title>
+<dc:description>Escrito mecanografiado titulado "Pensamientos.- de Khalil Gibrán (el profeta").</dc:description>
+<dc:date>2020-10-21T16:03:50Z</dc:date><dc:date>2020-10-21T16:03:50Z</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01_06_05</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31704</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31697</identifier><datestamp>2025-07-15T15:47:17Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63980</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Escrito del discurso de María de la Cruz en Radio La Verdad</dc:title>
+<dc:description>Escrito mecanografiado de discurso de María de la Cruz en Radio La Verdad, 23 y 24 de agosto de 1970, se pronuncia a favor de la presidencia del candidato Jorge Alessandri.</dc:description>
+<dc:date>2020-09-13T22:00:55Z</dc:date><dc:date>2020-09-13T22:00:55Z</dc:date><dc:date>23-08-1970</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01_06_07</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31697</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Prensa</dc:relation>
+<dc:format>2 hojas.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31564</identifier><datestamp>2025-07-15T15:48:22Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Material de Cámara. Entrevista a María de la Cruz. Diamela Eltit</dc:title>
+<dc:description>María de la Cruz (primera mujer senadora chilena y fundadora del Partido Femenino de Chile) tocando el piano juanto a una fotografía de ella en su juventud. Comienza una entrevista a María de la Cruz respecto al Partido Femenino de Chile y de su apoyo a Carlos Ibáñez del Campo. También comenta que para ella la mujer siempre ha sido superior al hombre por ser madre, habla de cómo llegó al senado y la inhabilitación (injustificada a su parecer) que le ocurrió a los 8 meses de ser senadora, después de la cual no volvería a tener un cargo público nuevamente por la dedicación a sus nietos. Además, habla de Eva Perón y la no identificación con ningún partido excepto con el Partido Femenino de Chile. Finalmente, María de la Cruz dice que todavía se considera una mujer feminista.</dc:description>
+<dc:description>https://youtu.be/UfWGDn0QMuk</dc:description>
+<dc:date>2020-06-09T16:53:08Z</dc:date><dc:date>2020-06-09T16:53:08Z</dc:date><dc:date>1989</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 05 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31564</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Umatic, 23 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31715</identifier><datestamp>2025-07-15T15:47:36Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Máximas mínimas</dc:title>
+<dc:description>Manuscrito de Jardiel Pondela, donde María de la Cruz escribe algunos apuntes de este texto, tratan sobre la inteligencia, el sacrificio, la Historia, el patrimonio, entre otros tópicos.</dc:description>
+<dc:date>2020-10-21T16:03:52Z</dc:date><dc:date>2020-10-21T16:03:52Z</dc:date>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>01_10_04</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31715</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>2 hojas.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31703</identifier><datestamp>2025-07-15T15:47:38Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Escrito "Pensamiento de Emil Ludvig", "de Leonardo Da Vinci" y "Pensamiento de Leonardo Da Vinci".</dc:title>
+<dc:description>Escrito mecanografiado titulado "Pensamiento de Emil Ludvig", "de Leonardo Da Vinci" y "Pensamiento de Leonardo Da Vinci".</dc:description>
+<dc:date>2020-10-21T16:03:50Z</dc:date><dc:date>2020-10-21T16:03:50Z</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01_06_04</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31703</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31573</identifier><datestamp>2025-07-15T15:48:22Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mat de Cámara. Sra. Elena. 3era Olguita (Lotty). Entrevista 7/92</dc:title>
+<dc:description>Entrevista a Elena Caffarena (abogada y activista política feminista chilena). Conversan acerca de la tecnología y del libro "Participación sociopolítica" de Teresa Valdés, entre otros temas más cotidianos. Habla de su compromiso con los derechos de la mujer, con ciertas problemáticas sociales y su mirada progresista en la época de su juventud. Se refiere a su visión social de ese entonces, hace una comparación de esta con la perspectiva de Amanda Labarca. Comenta cómo y por quiénes se formó el MEMCH (Movimiento de Emancipación de las Mujeres de Chile) y su no filiación a ningún partido político. También alude a la influencia de Marta Vergara en su perspectiva feminista y a su vínculo con el Presidente Pedro Aguirre Cerda. Conversa acerca del fin de muchos movimientos feministas, la conformación de otros y los libros que escribió mientras ocurrían otros procesos sociales. Igualmente, habla de su cargo de delegada en el Consejo de Defensa del Niño, de los aportes para las mujeres de los gobiernos de Frei Montalva, Allende, la dictadura de Pinochet y en la vuelta a la democracia. De igual modo, hay incluído aterial audiovisual que da cuenta de una entrevista a Olga Poblete (feminista y profesora chilena). En esta ella comenta sobre su pensamiento antimperialista, luego de estudiar un postgrado en Estados Unidos, habla de su participación en movimientos pacifistas y de la desintegración del MEMCH. Se refiere a la conformación de los Comité de Mujeres Chilenas, sus viajes por el mundo y sus labores como Profesora de Historia en ese entonces. Conversa también respecto a los procesos sociales del siglo XX a nivel mundial.</dc:description>
+<dc:description>https://youtu.be/qDEFCGr6UVY</dc:description>
+<dc:description>https://buscador.bibliotecas.uc.cl/view/delivery/56PUC_INST/12132540220003396</dc:description>
+<dc:date>2020-06-09T16:53:09Z</dc:date><dc:date>2020-06-09T16:53:09Z</dc:date><dc:date>1989</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 14 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31573</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Video8, 120 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31698</identifier><datestamp>2025-07-15T15:47:19Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63980</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Por el mundo de los ciegos: publicaciones mensuales</dc:title>
+<dc:description>Cuaderno con recortes de prensa que corresponden a textos de María de la Cruz y otros autores. Algunos recortes de prensa están sueltos. Además hay un manuscrito mecanografiado.</dc:description>
+<dc:date>2020-09-13T22:00:56Z</dc:date><dc:date>2020-09-13T22:00:56Z</dc:date><dc:date>1940 – 1947</dc:date>
+<dc:type>Recorte de prensa</dc:type>
+<dc:identifier>01_08_01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31698</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Prensa</dc:relation>
+<dc:format>28 hojas.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31575</identifier><datestamp>2025-07-15T15:48:23Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Respaldo Materiales de Cámara. 1. Entrevista María de la Cruz. 2. Entrevista Sra. Elena C. 3. Se refiere a María de la Cruz. 4. Se refiere a Amanda Labarca</dc:title>
+<dc:description>Entrevista a María de la Cruz (primera mujer senadora chilena y fundadora del Partido Femenino de Chile). Al principio aparece María de laCruz tocando el piano y luego empieza a hablar de la fundación del Partido Femenino de Chile. Se refiere a Carlos Ibáñez del Campo, a la llegada al senado de ella como la primera senadora chilena y de las demandas de las mujeres a partir de los años 20. Comenta acerca de la inhabilitación para ser senadora que le aplicaron y de su desinterés por seguir participando en la política luego de eso. Hace alusión a su vínculo exclusivo con el Partido Femenino y no con otros movimientos o partidos de la primera mitad del siglo XX. Conversa sobre su relación con los Perón de Argentina, habla de justicialismo y del Partido Agrario Laborista. Se refiere a su experiencia como la primera senadora chilena, feminista y a la discriminación que sufrió en su cargo. Igualmente, se muestra material audiovisual de una entrevista a Elena Caffarena (abogada y activista política feminista chilena). Ella habla acerca de la Ley Amunátegui y lo precoz del feminismo en Chile, respecto a otros países. Hace referencia a la lucha por los derechos humanos, comentando su experiencia de lucha y agregando también la ocurrida en el periodo de la dictadura en Chile. También habla de cómo se define a ella misma respecto a su vida. Se muestran grabaciones sin audio de Elena tomando té con Diamela Eltit, Lotty Rosenfeld y Kena Lorenzini. Conversa respecto a los Congresos de Mujeres organizados por el MEMCH, a la FECHIF (Federación Chilena de Instituciones Femeninas), liderada por Amanda Labarca y a los problemas partidarios en las organizaciones femeninas. Comenta sobre el Partido Femenino Chileno, liderado por María de la Cruz, de la aplicación que le hicieron de la Ley de Defensa de la Democracia en 1949 y de su apelación a esto. También habla de que no invitaron a mujeres del MEMCH a la celebración de la promulgación del derecho a voto político de la mujer y acerca de cómo se formó el MEMCH en la década del 30. Asimismo, alude a su cargo de Secretaria General del MEMCH, del retardo por parte de los partidos políticos para aprobar el derecho a voto universal de la mujer y de su propia calidad de partidaria del voto sin restricciones para la mujer, haciendo alusión a la opinión de Amanda Labarca también.</dc:description>
+<dc:description>https://youtu.be/HpZPYryx1Tw</dc:description>
+<dc:date>2020-06-09T16:53:09Z</dc:date><dc:date>2020-06-09T16:53:09Z</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 16 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31575</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>VHS, 60 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31566</identifier><datestamp>2025-07-15T15:48:24Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Material de Cámara. Entrevista a Olga Poblete y Elena Caffarena 3ª parte. Diamela Eltit</dc:title>
+<dc:description>Entrevista a Olga Poblete (feminista y profesora chilena). En esta ella habla acerca de su crítica, dentro del contexto mundial de este entonces, al feminismo y define su participación en relación a la causa de la mujer. Posteriormente, se muestra a Elena Caffarena con Olga Poblete sentadas en una banca situada en un jardín amplio y lleno de plantas. Se ponen a conversar respecto al documental que está haciendo Eltit y Rosenfeld. Después aparece Elena y Olga de pie en el patio de una casa, ambas comienzan a caminar por el lugar y conversan. Luego, hay un par de tomas de Elena de cuerpo entero caminando y riendo. Posteriormente empieza a mostrarse un diario del año 1940 ("La mujer nueva") sostenido por Elena, quien describe lo que observa en él. En otra toma Elena y Olga estan viendo fotos antiguas (del Segundo Congreso Nacional de Mujeres) donde van reconociendo a mujeres, como a Amanda Labarca. Finalmente, se muestra una toma de Olga en una banca, donde comenta brevemente que en su vida le han hecho múltiples entrevistas.</dc:description>
+<dc:description>https://youtu.be./nfTUppZvQ1k</dc:description>
+<dc:date>2020-06-09T16:53:08Z</dc:date><dc:date>2020-06-09T16:53:08Z</dc:date><dc:date>1989</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 07 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31566</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Umatic, 16 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31662</identifier><datestamp>2025-07-15T15:46:49Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz en una banquete ofrecidos por periodistas extranjeros</dc:title>
+<dc:description>Fotografía de estudio apaisada en blanco y negro.  María de la Cruz (en la primera fila, quinta de izquierda a derecha) en un banquete en octubre de 1962.</dc:description>
+<dc:date>2020-09-10T02:59:53Z</dc:date><dc:date>2020-09-10T02:59:53Z</dc:date><dc:date>octubre 1962</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_16</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31662</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31712</identifier><datestamp>2025-07-15T15:47:41Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Escrito de María de la Cruz, tiene por título "Infancia".</dc:title>
+<dc:description>Escrito mecanografiado de María de la Cruz, tiene por título "Infancia", en este comenta sobre sus primeros recuerdos, de un artículo publicado en El Mercurio por Enrique Lafourcade, de otro escrito por el periodista Oscar Pinochet de la Barra, habla de sus orígenes, de su familia, de su matrimonio y muestra un poema de ella dedicado a Delmira Agustini.</dc:description>
+<dc:date>2020-10-21T16:03:52Z</dc:date><dc:date>2020-10-21T16:03:52Z</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01_07_03</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31712</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>11 hojas.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31670</identifier><datestamp>2025-07-15T15:46:51Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz en una campaña del General Ibáñez</dc:title>
+<dc:description>Fotografía apaisada recortada en blanco y negro. María de la Cruz en una campaña del General Ibáñez.</dc:description>
+<dc:date>2020-09-10T02:59:57Z</dc:date><dc:date>2020-09-10T02:59:57Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_23</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31670</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31561</identifier><datestamp>2025-07-15T15:48:24Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Cinta de trabajo. Liliana Walker, Elena Caffarena</dc:title>
+<dc:description>Liliana Walker camina con lentes de sol de la mano de su hijo, mientras es grabada por canales de televisión que buscaban entrevistarla. Después, aparece la imagen de dos mujeres (***), el primer plano de una de ellas y luego cuatro mujeres hablando del derecho a estudio de la mujer. Posteriormente, aparece Rebeca Ghigliotto comentando unas declaraciones de Miguel Luis Amunátegui acerca de la educación de la mujer, de ahí el plano se aleja y muestra a las cuatro mujeres. Luego, se muestra a Elena Caffarena sentada en un sillón hablando del MEMCH (Movimiento de Emancipación de las Mujeres de Chile), que surge en los años 20, y de su experiencia al estudiar medicina. Además, comenta acerca de la aplicación de la Ley de Defensa de la Democracia que le aplicaron, con lo cual la dejaron sin voto. Finalmente, Elena afirma que quienes consiguieron el voto de la mujer no fue ni Gabriel González Videla ni otro gobierno, sino que las mujeres que lucharon durante 20 años.</dc:description>
+<dc:description>https://youtu.be/1AVXXDCfy4U</dc:description>
+<dc:date>2020-06-09T16:53:07Z</dc:date><dc:date>2020-06-09T16:53:07Z</dc:date><dc:date>1985?</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 02  Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31561</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Umatic, 21 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31655</identifier><datestamp>2025-07-15T15:46:55Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz en Córdoba</dc:title>
+<dc:description>"Fotografía horizontal apaisada en blanco y negro. Aparece María de la Cruz con anteojos en la escalera juntos al Presidente de la Cámara de Diputados, los Presidentes Provinciales del Campus de Córdoba,  dos mujeres una de ellas Maria de la Cruz junto a cuatro hombres, uno de ellos su chófer y su hijo Joaquín."</dc:description>
+<dc:date>2020-09-10T02:59:46Z</dc:date><dc:date>2020-09-10T02:59:46Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31655</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31591</identifier><datestamp>2021-07-26T20:11:20Z</datestamp><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_31587</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Destino Nacionalista de Chile</dc:title>
+<dc:creator>Hernán Vergara Paredes</dc:creator>
+<dc:description>Con anotaciones manuscritas de María de la Cruz.</dc:description>
+<dc:date>2020-06-09T20:36:51Z</dc:date><dc:date>2020-06-09T20:36:51Z</dc:date><dc:date>1976</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01-09-01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31591</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Varios</dc:relation>
+<dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31722</identifier><datestamp>2025-07-15T15:47:43Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Poema insomnio</dc:title>
+<dc:description>Poema manuscrito de María de la Cruz titulado "Insomnio" con fecha en diciembre de 1975.</dc:description>
+<dc:date>2020-10-21T16:03:53Z</dc:date><dc:date>2020-10-21T16:03:53Z</dc:date><dc:date>diciembre 1975</dc:date>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>01_10_16</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31722</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/61944</identifier><datestamp>2025-10-20T19:16:03Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Congreso Internacional de Literatura Femenina Latinoamericana</dc:title>
+<dc:creator>Rosenfeld, Lotty</dc:creator>
+<dc:description>Fragmentos de Congreso Internacional de Literatura Femenina Latinoamericana, que se llevó a cabo en Santiago de Chile el 17 de agosto de 1987. Incluyó en su programa una serie de mesas de discusión sobre crítica literaria y teoría feminista, literatura y patriarcado, estrategias del discurso femenino, poesía y narrativa latinoamericana, además de recitales poéticos y encuentros con escritoras de diferentes latitudes. Aparecen: Eliana Ortega (escritora chilena), Ida Vitalle (poeta uruguaya), Lucia Guerra (crítica chilena), Diamela Eltit (escritora chilena), Nelly Richard (crítica chilena), José Donoso (escritor chileno), María Maluenda (actriz chilena), Jorge Edwards (escritor chileno), Beatriz Sarlo (crítica argentina), Antoinette Fouque (editora francesa), Eugenia Brito (crítica chilena), y Josefina Lubner (crítica argentina).</dc:description>
+<dc:date>2023-04-28T21:11:13Z</dc:date><dc:date>2023-04-28T21:11:13Z</dc:date><dc:date>1987-08-17</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>https://archivospatrimoniales.uc.cl///handle/123456789/61944</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>MP4, 11:25 min.</dc:format><dc:format>video/mp4</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31716</identifier><datestamp>2025-07-15T15:47:44Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Frases escritas por María de la Cruz</dc:title>
+<dc:description>Manuscrito de frases escritas por María de la Cruz sobre diversas temáticas como los amigos, la vida, la mediocridad.</dc:description>
+<dc:date>2020-10-21T16:03:52Z</dc:date><dc:date>2020-10-21T16:03:52Z</dc:date>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>01_10_05</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31716</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31669</identifier><datestamp>2025-07-15T15:46:59Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz junto Arturo Matte Larraín y B. Along Goldsach</dc:title>
+<dc:description>Fotografía apaisada en blanco y negro. María de la Cruz de pie frente a dos hombres sentados (Arturo Matte Larraín y B. Along Goldsach) en su casa en 1969.</dc:description>
+<dc:date>2020-09-10T02:59:56Z</dc:date><dc:date>2020-09-10T02:59:56Z</dc:date><dc:date>1969</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_22</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31669</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31676</identifier><datestamp>2025-07-15T15:47:01Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz junto a un grupo de personas</dc:title>
+<dc:description>Fotografía de estudio apaisada en blanco y negro. Aparece María de la Cruz (quinta de izquierda a derecha) junto a variadas personas, entre ellos Luis Correa Prieto, Guillermo Izquierdo Araya y Elena Maluje, 23 de abril de 1973.</dc:description>
+<dc:date>2020-09-10T03:00:01Z</dc:date><dc:date>2020-09-10T03:00:01Z</dc:date><dc:date>23-04-1973</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_08</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31676</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31560</identifier><datestamp>2025-07-15T15:48:25Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Material de cámara sufragio 2) Estación Central</dc:title>
+<dc:description>Actrices: Rebeca Ghigliotto, Maricarmen Arrigorriaga... (pendiente) Se observa una mujer de perfil caminando en Estación Central mientras canta una canción. Luego, en una banca hay tres mujeres, de ellas una se para y comienza a hablar sobre la mujer moderna. Después se pasa a una toma de dos mujeres que hablan del tema de la falta de derechos de la mujer. En otra toma, estas mismas mujeres hablan de la reivindicación de los derechos de la mujer. Posteriormente, en un primer plano de *** ella habla de los estudios de las mujeres. Luego tres mujeres y otra en otro plano continúan hablando. Finalmente, se observan cuatro mujeres de frente, en diversos planos, donde una de ellas habla sobre el derecho a la educación de la mujer promovido por Miguel Luis Amunátegui.</dc:description>
+<dc:description>https://youtu.be./sMBLYywODOk</dc:description>
+<dc:date>2020-06-09T16:53:07Z</dc:date><dc:date>2020-06-09T16:53:07Z</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 01  Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31560</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Umatic, 21 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31663</identifier><datestamp>2025-07-15T15:47:03Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz junto a periodistas extranjeros</dc:title>
+<dc:description>Fotografía vertical en blanco y negro.  María de la Cruz junto a dos  periodistas, uno peruano y otro colombiano, año 1953.</dc:description>
+<dc:date>2020-09-10T02:59:53Z</dc:date><dc:date>2020-09-10T02:59:53Z</dc:date><dc:date>enero 1953</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_17</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31663</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31661</identifier><datestamp>2025-07-15T15:47:04Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Varios hombres observando un objeto pequeño</dc:title>
+<dc:description>Fotografía apaisada en blanco y negro. Aparecen varios hombres observando un objeto pequeño, al parecer medio transparente.</dc:description>
+<dc:date>2020-09-10T02:59:52Z</dc:date><dc:date>2020-09-10T02:59:52Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_15</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31661</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31572</identifier><datestamp>2025-07-24T19:25:17Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Respaldo Lotty Rosenfeld. E. Caffarena</dc:title>
+<dc:description>Entrevista a Elena Caffarena (abogada y activista política feminista chilena). En esta comenta sobre su interés por estudiar Leyes, la lucha de las mujeres por conseguir su voto político y habla sobre su viaje a Francia. Se refiere a la importancia de la Ley Amunátegui y a cómo se formó el MEMCH (Movimiento por la Emancipación de las Mujeres de Chile). Conversa sobre el FECHIF (Federación Chilena de Instituciones Femeninas) y el Partido Femenino de Chile liderado por María de la Cruz. Igualmente, comenta de la aplicación que le ejercieron a ella de la Ley de Defensa de la Democracia. Hay imágenes que muestran a Elena tomando té con Diamela Eltit, Lotty Rosenfeld y Kena Lorenzini. Elena se refiere también a su no participación en partidos o cargos políticos y a su continuidad como feminista, a pesar de terminarse el MEMCH. Finalmente, conversa un poco en torno a los libros que ella escribió y fueron publicados.</dc:description>
+<dc:description>https://youtu.be/TX3ZSQ_Zeo0</dc:description>
+<dc:date>2020-06-09T16:53:09Z</dc:date><dc:date>2020-06-09T16:53:09Z</dc:date><dc:date>199-?</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 13 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31572</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Minidv, 60 min.</dc:format><dc:format>image/png</dc:format><dc:format>video/mp4</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31708</identifier><datestamp>2025-07-15T15:47:47Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Manuscrito con apuntes de "Máximos mínimos".</dc:title>
+<dc:description>Manuscrito con apuntes titulado "Máximos mínimos" que habla sobre la inteligencia, el poder, el sacrificio.</dc:description>
+<dc:date>2020-10-21T16:03:51Z</dc:date><dc:date>2020-10-21T16:03:51Z</dc:date>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>01_06_10</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31708</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>2 hojas.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31705</identifier><datestamp>2025-07-15T15:47:50Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Escrito que certifica contenido de propiedad intelectual perteneciente a María de la Cruz.</dc:title>
+<dc:description>Escrito mecanografiado que certifica un contenido de propiedad intelectual perteneciente a María de la Cruz, específicamente la obra "Suprema Cita", fechado el 6 de marzo de 1944.</dc:description>
+<dc:date>2020-10-21T16:03:50Z</dc:date><dc:date>2020-10-21T16:03:50Z</dc:date><dc:date>06-03-1944.</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01_06_06</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31705</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31714</identifier><datestamp>2025-07-15T15:47:55Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Escrito mecanografiado de María de la Cruz, tiene por título "Tercera parte. Política"</dc:title>
+<dc:description>Escrito mecanografiado de María de la Cruz, tiene por título "Tercera parte. Política", aquí comenta su decisión de formar el Partido Femenino de Chile, su participación en la campaña y gobierno de Carlos Ibáñez del Campo, la propuesta de este para que ella fuera Senadora, muestra un poema que ella le escribió a él y que este terminó distribuyendo en Chile y Argentina. Finalmente, comenta el suceso de la inhabilitación como Senadora que ejercieron hacia ella.</dc:description>
+<dc:date>2020-10-21T16:03:52Z</dc:date><dc:date>2020-10-21T16:03:52Z</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01_07_05</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31714</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>6 hojas.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31720</identifier><datestamp>2025-07-15T15:47:58Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Carta mecanografiada de María de la Cruz al presidente Jorge Alessandri R.</dc:title>
+<dc:description>Carta mecanografiada de María de la Cruz al presidente Jorde Alessandri R., fechada el 20 de agosto de 1961. En esta carta le comenta, entre otras cosas la lucha que deben realizar contra el comunismo.</dc:description>
+<dc:date>2020-10-21T16:03:53Z</dc:date><dc:date>2020-10-21T16:03:53Z</dc:date><dc:date>20-08-1961</dc:date>
+<dc:type>Correspondencia</dc:type>
+<dc:identifier>01_10_10</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31720</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>2 hojas.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31568</identifier><datestamp>2025-07-15T15:48:26Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Documental mujeres. 2 Gloria Aguayo</dc:title>
+<dc:description>Entrevista a Carme Gloria Aguayo (dirigenta del MAPU y Ministra de la Familia en el gobierno de la UP). Comenta su experiencia en la Democracia Cristiana y en el gobierno de Frei Montalva, junto a su renuncia a este partido porque ella con otras personas más querían ejercer una revolución. Tras esto dicha personas crean el partido MAPU (Movimiento de Acción Popular Unitaria). Aborda también el tema de la creación de la Oficina Nacional de la Mujer en el gobierno de Frei Montalva y, posteriormente, el Ministerio de la Familia en el gobierno de la UP, donde Carmen participó activamente. Conversa acerca de otros hechos ocurridos en los años 70 como la muerte del General Schneider, la visita de Fidel Castro, el desbastecimiento, el mercado negro y las JAP (Juntas de Abastecimiento y Control de Precios). Finalmente, habla de los cacerolazos organizados por la clase alta para protestar en contra del desabastecimiento y la marcha de las ollas vacías.</dc:description>
+<dc:description>https://youtu.be/xhlkWgp3nUM</dc:description>
+<dc:date>2020-06-09T16:53:08Z</dc:date><dc:date>2020-06-09T16:53:08Z</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 09 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31568</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Betacam SP, 30 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31570</identifier><datestamp>2024-05-06T20:38:05Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>4 Mireya Baltra. Carmen Lazo</dc:title>
+<dc:description>Entrevista a Mireya Baltra (suplementera y política del Partido Comunista de Chile, fue diputada en 1969 y Ministra del Trabajo y Previsión Social en el gobierno de la UP). En esta habla sobre la gran participación de la mujer en varios aspectos de la vida nacional durante fines de los años 60 y comienzos de los 70, cosiderando los Centros de Madres, la Secretaría Nacional de la Mujer, las JAP (Juntas de Abastecimiento y Control de Precios), entre otras instancias. Conversa de su experiencia como Secretaria General de las mujeres de la Unidad Popular. Aborda el tema del desabastecimiento, y de la justicia y seguridad social que se intento alcanzar con el gobierno de la UP, junto con la construcción de las viviendas sociales, el medio litro de leche para cada niño. Para ella el cambio fundamental en esta época fue el establecimiento de la soberanía popular y la participación del pueblo. Se refiere a la marcha de las ollas vacías como el primer paso de masas de la contrarevolución. Posteriormente, se muestra una entrevista realizada a Carmen Lazo (diputada y política chilena del Partido Socialista de Chile). Comenta de su ingreso al Partido Socialista en el año 1933, con tal solo 13 años. Habla de que fue dirigenta de este partido en todos sus niveles, también fue dirigenta nacional de los empleados particulares en los años 50, fue dirigenta de la Confederación de Trabajadores de Chile (actual CUT) en Santiago. También fue regidora de Santiago entre 1943 y 1947, y diputada desde 1965 hasta el golpe militar. Impulsó leyes respecto a la mujer como bloque con las demás mujeres que eran diputadas y defendió la nacionalización del cobre. Comenta acerca de la participación de la mujer, incluyéndose, en el Partido Socialista.</dc:description>
+<dc:description>https://youtu.be/Z73GIwaZqM4</dc:description>
+<dc:date>2020-06-09T16:53:09Z</dc:date><dc:date>2020-06-09T16:53:09Z</dc:date><dc:date>1993</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 11 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31570</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Betacam SP, 30 min.</dc:format><dc:format>video/mp4</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31707</identifier><datestamp>2025-07-24T14:49:54Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Extracto de carta de Juan Perón a María de la Cruz</dc:title>
+<dc:description>Fragmento de la carta de Juan Perón dirigida a María de la Cruz, fechada el 15 de noviembre de 1958, enviada desde Ciudad Trujillo, República Dominicana. En este extracto, se aborda el tema del peronismo y el triunfo de Alessandri.</dc:description>
+<dc:date>2020-10-21T16:03:51Z</dc:date><dc:date>2020-10-21T16:03:51Z</dc:date><dc:date>1958-11-15</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01_06_09</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31707</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31711</identifier><datestamp>2025-07-15T15:48:02Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>"Mis memorias" Copias.</dc:title>
+<dc:description>Muestra como título "Mis memorias" Copias.</dc:description>
+<dc:date>2020-10-21T16:03:51Z</dc:date><dc:date>2020-10-21T16:03:51Z</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01_07_01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31711</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31671</identifier><datestamp>2025-07-15T15:47:05Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz  junto a Gastón Acuña y su esposa en Cartagena</dc:title>
+<dc:description>Fotografía apaisada en blanco y negro. Aparece María de la Cruz en Cartagena, San Antonio el año 1963, junto a Gastón Acuña y su esposa.</dc:description>
+<dc:date>2020-09-10T02:59:57Z</dc:date><dc:date>2020-09-10T02:59:57Z</dc:date><dc:date>01-12-1963</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_03</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31671</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/63938</identifier><datestamp>2026-01-26T17:52:35Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Destino Nacionalista de Chile</dc:title>
+<dc:creator>Vergara Paredes, Hernán</dc:creator>
+<dc:description>Con anotaciones manuscritas de María de la Cruz.</dc:description>
+<dc:date>2020-06-09T20:36:51Z</dc:date><dc:date>2023-08-01T16:43:34Z</dc:date><dc:date>2020-06-09T20:36:51Z</dc:date><dc:date>2023-08-01T16:43:34Z</dc:date><dc:date>1976</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01-09-01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl///handle/123456789/63938</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Varios</dc:relation>
+<dc:format>33 hojas.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31718</identifier><datestamp>2025-11-20T19:08:01Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Presencia nueva</dc:title>
+<dc:description>Manuscrito que representa un poema de María de la Cruz, fechado en diciembre de 1975.</dc:description>
+<dc:date>2020-10-21T16:03:53Z</dc:date><dc:date>2020-10-21T16:03:53Z</dc:date><dc:date>diciembre 1975</dc:date>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>01_10_07</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31718</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31565</identifier><datestamp>2025-07-15T15:48:27Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Material de Cámara. Entrevista a Olga Poblete 2ª parte. Diamela Eltit</dc:title>
+<dc:description>Entrevista a Olga Poblete (feminista y profesora chilena). En esta ella comenta la importancia de la Ley Amunátegui en el camino de emancipación de la mujer, ya que permitió, en gran medida, que la mujer pudiera entrar a la universidad. Olga comenta su interés por el pacifismo y el desarme, lo cual la llevó a pertenecer a movimientos en pro de esto. Habla de sus premios y de cómo el MEMCH (Movimiento de Emancipación de las Mujeres de Chile) se desarticula luego de obtener el derecho asufragio universal. También, refiere a la falta de escritos y, por tanto, de memoria y archivos respecto al MEMCH. Se refiere a que para ella la discminicación hacia la mujer ha cambiado y habla sobre cuál sería la mejor vía del feminismo para Chile.</dc:description>
+<dc:description>https://youtu.be/OykVsebxgSc</dc:description>
+<dc:date>2020-06-09T16:53:08Z</dc:date><dc:date>2020-06-09T16:53:08Z</dc:date><dc:date>1989</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 06 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31565</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Umatic, 21 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31664</identifier><datestamp>2025-07-15T15:47:06Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mujer con un bebé sentado.</dc:title>
+<dc:description>Fotografía de estudio vertical en sepia. Aparece una mujer con un bebé, fechada en junio de 1924 aparentemente.</dc:description>
+<dc:date>2020-09-10T02:59:54Z</dc:date><dc:date>2020-09-10T02:59:54Z</dc:date><dc:date>junio 1924</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_18</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31664</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31668</identifier><datestamp>2025-07-15T15:47:09Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz en el frontis de la casa de Mariana Bestiano</dc:title>
+<dc:description>Fotografía apaisada en blanco y negro. María de la Cruz en el frontis una casa en Pedro de Valdivia Norte, en febrero de 1979.</dc:description>
+<dc:date>2020-09-10T02:59:56Z</dc:date><dc:date>2020-09-10T02:59:56Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_21</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31668</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31702</identifier><datestamp>2025-07-15T15:48:09Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>"Tardes de sábado" dedicada a María de la Cruz.</dc:title>
+<dc:description>Manuscrito titulado "Tardes de sábado", dedicado a María de la Cruz donde se ensalza a su persona, fechado el 19 de diciembre de 1945.</dc:description>
+<dc:date>2020-10-21T16:03:50Z</dc:date><dc:date>2020-10-21T16:03:50Z</dc:date><dc:date>19-12-1945.</dc:date>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>01_06_03</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31702</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31713</identifier><datestamp>2025-07-15T15:48:12Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Escrito de María de la Cruz, tiene por título "Seguna parte. Juventud".</dc:title>
+<dc:description>Escrito mecanografiado de María de la Cruz, tiene por título "Seguna parte. Juventud", en este habla acerca del desaliento, la angustia, la esperanza, muestra un poema escrito a su madre. También comenta en torno a sus escritos y publicaciones, antologías poéticas, una novela, u ensayo, entre otros. Expone otro poema, y además habla acerca de la tristeza, la alegría, la política, su revista "Luz y Sombra", su acercamiento a conocer la pobreza.</dc:description>
+<dc:date>2020-10-21T16:03:52Z</dc:date><dc:date>2020-10-21T16:03:52Z</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01_07_04</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31713</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>13 hojas.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31569</identifier><datestamp>2025-07-15T15:48:28Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>3 Mireya Baltra</dc:title>
+<dc:description>Entrevista a Mireya Baltra (suplementera y política del Partido Comunista de Chile, fue diputada en 1969 y Ministra del Trabajo y Previsión Social en el gobierno de la UP). Comienza hablando acerca de su labor como concejala en el gobierno de la UP por educar a niños y jóvenes que se convirtieran en personas íntegras en su adultez, también habla de su lucha como dirigente sindical, trabajo con el cual logró que se crearán comités de mujeres en los cités de Santiago. Igualmente, habla de sus reuniones con prostitutas de Santiago, con las cuales se formó un comité, una biblioteca, una cocina y un comedor. Comenta las dificultades que se le presentan a una mujer por ser dirigenta sindical y las batallas que se presentaron por una mayor participación de la mujer. Conversa acerca del trato a la mujer en el parlamento y su relación con sus compañeras diputadas, luego cuenta sobre su experiencia al ser nombrada por Allende la primera Ministra del Trabajo mujer en Chile.</dc:description>
+<dc:description>https://youtu.be/qU8lLGtrcjU</dc:description>
+<dc:date>2020-06-09T16:53:09Z</dc:date><dc:date>2020-06-09T16:53:09Z</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 10 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31569</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>Betacam SP, 30 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31709</identifier><datestamp>2025-07-15T15:48:13Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Manuscrito "Monosílabos de Niemer..."</dc:title>
+<dc:description>Manuscrito titulado "Monosílabos de Niemer...", en este hay apuntes especialmente sobre el tema del amor.</dc:description>
+<dc:date>2020-10-21T16:03:51Z</dc:date><dc:date>2020-10-21T16:03:51Z</dc:date>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>01_06_11</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31709</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>2 hojas.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31701</identifier><datestamp>2025-07-15T15:48:14Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Manuscrito "Sintiendo por otro corazón".</dc:title>
+<dc:description>Manuscrito titulado "Sintiendo por otro corazón", es un poema en verso escrito por María de la Cruz, fechado el día 27 de febrero de 1937.</dc:description>
+<dc:date>2020-10-21T16:03:50Z</dc:date><dc:date>2020-10-21T16:03:50Z</dc:date><dc:date>1937</dc:date>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>01_06_02</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31701</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31717</identifier><datestamp>2025-07-15T15:48:16Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Frases célebres</dc:title>
+<dc:description>Manuscrito de María de la Cruz, donde escribe diversas frases célebres de variados autores, entre estos Emil Ludwig, Felicitas Klimpel, Jardiel Poncela, entre otros.</dc:description>
+<dc:date>2020-10-21T16:03:52Z</dc:date><dc:date>2020-10-21T16:03:52Z</dc:date>
+<dc:type>Manuscrito</dc:type>
+<dc:identifier>01_10_06</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31717</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>7 hojas</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31659</identifier><datestamp>2025-07-15T15:47:11Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz Toledo a su lado Juan Perón</dc:title>
+<dc:description>Fotografía apaisada alargada en blanco y negro. María de la Cruz junto a un Juan Perón en una entrevista.</dc:description>
+<dc:date>2020-09-10T02:59:50Z</dc:date><dc:date>2020-09-10T02:59:50Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_13</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31659</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31674</identifier><datestamp>2025-07-15T15:47:12Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz junto a Juan Perón</dc:title>
+<dc:description>Fotografía apaisada alargada en blanco y negro. Aparece María de la Cruz sentada  junto a Juan Perón.</dc:description>
+<dc:date>2020-09-10T02:59:59Z</dc:date><dc:date>2020-09-10T02:59:59Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_06</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31674</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31574</identifier><datestamp>2025-07-15T15:48:29Z</datestamp><setSpec>com_123456789_63934</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63979</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Entrevista Sra. Elena Caffarena. Respaldo Mat. De Camara. Sra Elena Cafferena.</dc:title>
+<dc:description>Entrevista a Elena Caffarena (abogada y activista política feminista chilena). En esta ella habla sobre el divorcio y la maternidad responsable o escogida como dos de los temas fundamentales de la mujer. Conversa acerca de su experiencia como madre, la problemática del poder entre las mujeres y la escasa participación de las mujeres en el parlamento. Además, alude a situación de la mujer a principios de los años 90 en Chile y a su relación con otros movimientos feministas a nivel internacional, sobretodo latinoamericano. Se refiere a su desinterés por emprender una carrera política y a la progresiva disminución de la actividad de los movimientos de mujeres luego de conseguir el voto político. Comenta también las temáticas tratadas en los libros que escribió y habla respecto a las ramas del feminismo. Hace alusión a su motivación para estudiar Leyes en los años 20 del siglo pasado y para pertenecer a un movimiento feminista. Conversa acerca de su viaje a Francia, luego de terminar su carrera de abogada, también sobre las diversas organizaciones de mujeres antes de 1935 y de la Ley Amunátegui. Igualmente, habla de su labor como Secretaria General del MEMCH (Movimiento de Emancipación de las Mujeres de Chile) y de cómo se formó este movimiento. Se refiere a la demora para la aprobación del voto femenino, a las estrategias que se buscaban en los Congresos de Mujeres organizados por el MEMCH y a las características de quienes conformaron este movimiento. Conversa sobre la FECHIF (Federación Chilena de Instituciones Femeninas) y el Partido Femenino, liderado por María de la Cruz. Por último, habla de la aplicación de la Ley de Defensa de la Democracia que le ejercieron en 1949, con lo cual le quitaron su derecho a voto.</dc:description>
+<dc:description>https://youtu.be/SRMaCioDPQA</dc:description>
+<dc:date>2020-06-09T16:53:09Z</dc:date><dc:date>2020-06-09T16:53:09Z</dc:date><dc:date>1990</dc:date>
+<dc:type>Video</dc:type>
+<dc:identifier>Caja 02 Carp 15 Doc 01</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31574</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Audiovisual</dc:relation>
+<dc:format>2 cintas VHS, 45 min.</dc:format><dc:format>video/mp4</dc:format><dc:format>image/png</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31675</identifier><datestamp>2025-07-15T15:47:14Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63935</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>María de la Cruz junto a un grupo de mujeres</dc:title>
+<dc:description>Fotografía apaisada tamaño pequeño en blanco y negro. María de la Cruz (en la última fila de abajo hacia arriba, la tercera de izquierda a derecha) acompañada de un grupo de personas, entre ellos  Luis Correa Prieto, María de la Cruz, Guillermo Izquierdo Araya, Elena Maluje.</dc:description>
+<dc:date>2020-09-10T03:00:01Z</dc:date><dc:date>2020-09-10T03:00:01Z</dc:date>
+<dc:type>Fotografía</dc:type>
+<dc:identifier>01_05_07</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31675</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Fotografías</dc:relation>
+<dc:format>1 fotografía en blanco y negro.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+<record><header><identifier>oai:archivospatrimoniales.uc.cl:123456789/31721</identifier><datestamp>2025-07-15T15:48:18Z</datestamp><setSpec>com_123456789_63933</setSpec><setSpec>com_123456789_31557</setSpec><setSpec>com_123456789_1</setSpec><setSpec>col_123456789_63981</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Anteportada de libro "Alba de oro"</dc:title>
+<dc:description>Anteportada de libro "Alba de oro", último libro de María de la Cruz.</dc:description>
+<dc:date>2020-10-21T16:03:53Z</dc:date><dc:date>2020-10-21T16:03:53Z</dc:date>
+<dc:type>Documento</dc:type>
+<dc:identifier>01_10_15</dc:identifier>
+<dc:identifier>https://archivospatrimoniales.uc.cl/handle/123456789/31721</dc:identifier>
+<dc:relation>Archivo Eltit Rosenfeld</dc:relation><dc:relation>Textos de María de la Cruz</dc:relation>
+<dc:format>1 hoja.</dc:format><dc:format>application/pdf</dc:format>
+</oai_dc:dc></metadata></record>
+</ListRecords></OAI-PMH>
