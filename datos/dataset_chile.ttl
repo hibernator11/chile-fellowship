@@ -1,0 +1,792 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix schema: <https://schema.org/> .
+
+<https://archivospatrimoniales.uc.cl///handle/123456789/61944> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Fragmentos de Congreso Internacional de Literatura Femenina Latinoamericana, que se llevó a cabo en Santiago de Chile el 17 de agosto de 1987. Incluyó en su programa una serie de mesas de discusión sobre crítica literaria y teoría feminista, literatura y patriarcado, estrategias del discurso femenino, poesía y narrativa latinoamericana, además de recitales poéticos y encuentros con escritoras de diferentes latitudes. Aparecen: Eliana Ortega (escritora chilena), Ida Vitalle (poeta uruguaya), Lucia Guerra (crítica chilena), Diamela Eltit (escritora chilena), Nelly Richard (crítica chilena), José Donoso (escritor chileno), María Maluenda (actriz chilena), Jorge Edwards (escritor chileno), Beatriz Sarlo (crítica argentina), Antoinette Fouque (editora francesa), Eugenia Brito (crítica chilena), y Josefina Lubner (crítica argentina)." ;
+    schema:additionalType "Video" ;
+    schema:dateCreated "1987-08-17" ;
+    schema:datePublished "2023-04-28T21:11:13Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Congreso Internacional de Literatura Femenina Latinoamericana" .
+
+<https://archivospatrimoniales.uc.cl///handle/123456789/63938> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Con anotaciones manuscritas de María de la Cruz." ;
+    schema:additionalType "Documento" ;
+    schema:dateCreated "1976" ;
+    schema:datePublished "2020-06-09T20:36:51Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01-09-01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Destino Nacionalista de Chile" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31560> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Actrices: Rebeca Ghigliotto, Maricarmen Arrigorriaga... (pendiente) Se observa una mujer de perfil caminando en Estación Central mientras canta una canción. Luego, en una banca hay tres mujeres, de ellas una se para y comienza a hablar sobre la mujer moderna. Después se pasa a una toma de dos mujeres que hablan del tema de la falta de derechos de la mujer. En otra toma, estas mismas mujeres hablan de la reivindicación de los derechos de la mujer. Posteriormente, en un primer plano de *** ella habla de los estudios de las mujeres. Luego tres mujeres y otra en otro plano continúan hablando. Finalmente, se observan cuatro mujeres de frente, en diversos planos, donde una de ellas habla sobre el derecho a la educación de la mujer promovido por Miguel Luis Amunátegui." ;
+    schema:additionalType "Video" ;
+    schema:datePublished "2020-06-09T16:53:07Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 01  Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Material de cámara sufragio 2) Estación Central" ;
+    schema:url <https://youtu.be./sMBLYywODOk> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31561> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Liliana Walker camina con lentes de sol de la mano de su hijo, mientras es grabada por canales de televisión que buscaban entrevistarla. Después, aparece la imagen de dos mujeres (***), el primer plano de una de ellas y luego cuatro mujeres hablando del derecho a estudio de la mujer. Posteriormente, aparece Rebeca Ghigliotto comentando unas declaraciones de Miguel Luis Amunátegui acerca de la educación de la mujer, de ahí el plano se aleja y muestra a las cuatro mujeres. Luego, se muestra a Elena Caffarena sentada en un sillón hablando del MEMCH (Movimiento de Emancipación de las Mujeres de Chile), que surge en los años 20, y de su experiencia al estudiar medicina. Además, comenta acerca de la aplicación de la Ley de Defensa de la Democracia que le aplicaron, con lo cual la dejaron sin voto. Finalmente, Elena afirma que quienes consiguieron el voto de la mujer no fue ni Gabriel González Videla ni otro gobierno, sino que las mujeres que lucharon durante 20 años." ;
+    schema:additionalType "Video" ;
+    schema:dateCreated "1985?" ;
+    schema:datePublished "2020-06-09T16:53:07Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 02  Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Cinta de trabajo. Liliana Walker, Elena Caffarena" ;
+    schema:url <https://youtu.be/1AVXXDCfy4U> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31562> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Material audiovisual de la Segunda Guerra Mundial, específicamente de los nazis y Hitler en particular. Luego, se comienza a hablar de Elena Caffarena a modo de introducción biográfica, lo cual se reitera varias veces. Posteriormente se presenta material audiovisual, a modo de montaje, con la voz en off que comenta la introducción biográfica de Elena Caffarena. Visualmete, hay cuatro actrices, primero una de ellas camina derecho mientras canta una canción (Maricarmen Arrigorriaga), después una de las tres (Rebeca Ghigliotto) que están sentadas en una banca se para. Luego esto se vuelve a reiterar pero alterando la voz de la actriz que canta mientras camina. Se empieza a hablar de la situación de las mujeres después de la crisis producida por la Primera Guerra Mundial con imágenes de esta de fondo y de la actriz que canta y camina a la vez. Además aparece la imagen de cuatro actrices paradas de frente a la cámara y la de ua mujer en primer plano con el cabello rizado, mirando hacia abajo, a los lados y arriba. Aparece la imagen de un libro y recortes de un diario mientras se continúa hablando acerca de la situación de las mujeres, alrededor de los años 20 en Chile. Se realizan preguntas hacia Elena Caffarena mientras se observa el libro y los recortes mencionados. Se muestra a la actriz Maricarmen Arrigorriaga de frente en primer plano y luego un poco más distante. Después aparece una toma picada de las cinco actrices en Estación Central. Hay variadas imágenes una tras otra y aparece el nombre \"Amanda Labarca\". Se ve a una mujer con un computador, ella se siente y hace una última pregunta para Elena Caffarena: \"¿Cómo ve usted hoy la situación de la mujere en Chile?\". Se repite la toma picada de las cinco actrices, que luego salen del plano. Finalmente se ve un montaje de imágenes en marcha atrás." ;
+    schema:additionalType "Video" ;
+    schema:datePublished "2020-06-09T16:53:08Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 03  Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Estación actrices sufragio. Material de Cámara" ;
+    schema:url <https://youtu.be/OtvITzlVYtw> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31563> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Se muestra música folclórica mientras una mujer (Fedora Fonseca) aparece vestida elegantemente en Estación Central de noche. La mujer comienza a bailar con un hombre también de apariencia elegante (Rodrigo Fernández) y llega el tren, este último queda detenido en el lugar. Se observa una toma picada de cinco mujeres, la toma va acercándose a ellas de frente y una comienza a hablar sin escuchársele. Después vuelve a mostrarse la toma picada y las mujeres se ven reorganizando sus posiciones en el espacio, entre eso se observa un primer plano desde arriba de una de las actrices. Aparecen las pantorrillas y pies de una mujer con falda y zapatos de taco alto caminando, junto a esto otras tomas de la mujer caminando, se le ve de cuerpo entero y comienza a comentar de las organizaciones femeninas en Chile, de la situación social en el gobierno de Carlos Ibánez del Campo. Luego se ve a otra de las actrices (Maricarmen Arrigorriaga) hablar del derecho a voto obtenido por la mujer en el gobierno de Arturo Alessandri Palma." ;
+    schema:additionalType "Video" ;
+    schema:dateCreated "1992-1993?" ;
+    schema:datePublished "2020-06-09T16:53:08Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 04 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Material de Cámara Baile Meneca" ;
+    schema:url <https://youtu.be/3ErG4vwh6ho> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31564> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "María de la Cruz (primera mujer senadora chilena y fundadora del Partido Femenino de Chile) tocando el piano juanto a una fotografía de ella en su juventud. Comienza una entrevista a María de la Cruz respecto al Partido Femenino de Chile y de su apoyo a Carlos Ibáñez del Campo. También comenta que para ella la mujer siempre ha sido superior al hombre por ser madre, habla de cómo llegó al senado y la inhabilitación (injustificada a su parecer) que le ocurrió a los 8 meses de ser senadora, después de la cual no volvería a tener un cargo público nuevamente por la dedicación a sus nietos. Además, habla de Eva Perón y la no identificación con ningún partido excepto con el Partido Femenino de Chile. Finalmente, María de la Cruz dice que todavía se considera una mujer feminista." ;
+    schema:additionalType "Video" ;
+    schema:dateCreated "1989" ;
+    schema:datePublished "2020-06-09T16:53:08Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 05 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Material de Cámara. Entrevista a María de la Cruz. Diamela Eltit" ;
+    schema:url <https://youtu.be/UfWGDn0QMuk> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31565> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Entrevista a Olga Poblete (feminista y profesora chilena). En esta ella comenta la importancia de la Ley Amunátegui en el camino de emancipación de la mujer, ya que permitió, en gran medida, que la mujer pudiera entrar a la universidad. Olga comenta su interés por el pacifismo y el desarme, lo cual la llevó a pertenecer a movimientos en pro de esto. Habla de sus premios y de cómo el MEMCH (Movimiento de Emancipación de las Mujeres de Chile) se desarticula luego de obtener el derecho asufragio universal. También, refiere a la falta de escritos y, por tanto, de memoria y archivos respecto al MEMCH. Se refiere a que para ella la discminicación hacia la mujer ha cambiado y habla sobre cuál sería la mejor vía del feminismo para Chile." ;
+    schema:additionalType "Video" ;
+    schema:dateCreated "1989" ;
+    schema:datePublished "2020-06-09T16:53:08Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 06 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Material de Cámara. Entrevista a Olga Poblete 2ª parte. Diamela Eltit" ;
+    schema:url <https://youtu.be/OykVsebxgSc> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31566> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Entrevista a Olga Poblete (feminista y profesora chilena). En esta ella habla acerca de su crítica, dentro del contexto mundial de este entonces, al feminismo y define su participación en relación a la causa de la mujer. Posteriormente, se muestra a Elena Caffarena con Olga Poblete sentadas en una banca situada en un jardín amplio y lleno de plantas. Se ponen a conversar respecto al documental que está haciendo Eltit y Rosenfeld. Después aparece Elena y Olga de pie en el patio de una casa, ambas comienzan a caminar por el lugar y conversan. Luego, hay un par de tomas de Elena de cuerpo entero caminando y riendo. Posteriormente empieza a mostrarse un diario del año 1940 (\"La mujer nueva\") sostenido por Elena, quien describe lo que observa en él. En otra toma Elena y Olga estan viendo fotos antiguas (del Segundo Congreso Nacional de Mujeres) donde van reconociendo a mujeres, como a Amanda Labarca. Finalmente, se muestra una toma de Olga en una banca, donde comenta brevemente que en su vida le han hecho múltiples entrevistas." ;
+    schema:additionalType "Video" ;
+    schema:dateCreated "1989" ;
+    schema:datePublished "2020-06-09T16:53:08Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 07 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Material de Cámara. Entrevista a Olga Poblete y Elena Caffarena 3ª parte. Diamela Eltit" ;
+    schema:url <https://youtu.be./nfTUppZvQ1k> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31567> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Se muestra a dos actrices (María Elena Duvauchelle y...) subiendo la escalera del Edificio del Ex Congreso Nacional con vestuario de los años 20 en Chile. Poteriormente se ve una toma donde pasa una ellas, luego la otra entra a una sala. Se observa una toma de los zapatos de esta mujer en esa sala. Posteriormente aparece la toma de una actriz tras una puerta de vidrio observando fijamente a través de esta. Luego, hay tomas de otra actriz (María Elena Duvauchelle) caminando preocupada y atravesando unas puertas por lo que parece el interior del Ex Congreso Nacional. Esta actriz después entra a la sala de sesiones del congreso, donde se observan otras tres actrices más, la escena se sitúa en 1914 y estas mujeres actúan como si fueran hombres. Después, aparecen retirándose de la sala de sesiones. Continúa otra escena donde se ve a una actriz (María Elena Duvauchelle) en medio de la sala de sesiones observando a su alrededor y retirándose de esta. Aparece otra actriz realizando una escena muy similar a la anterior.  Se muestra otra escena donde una actriz entra al estrado de sillas del congreso, un hombre sale y ella se sienta en su lugar. Luego, dos actrices entran a la sala de sesiones una de ellas se desabrocha su chaqueta y la otra se sienta. Una de las demás actrices aparece en un primer plano y comienza a hablar iniciando la sesión del congreso (1953) donde se resolvería la inhabilitación de María de la Cruz." ;
+    schema:additionalType "Video" ;
+    schema:datePublished "2020-06-09T16:53:08Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 08 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Documental mujeres. Material de Cámara. Actrices Cámara" ;
+    schema:url <https://youtu.be./w5aIhbq4pF8> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31568> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Entrevista a Carme Gloria Aguayo (dirigenta del MAPU y Ministra de la Familia en el gobierno de la UP). Comenta su experiencia en la Democracia Cristiana y en el gobierno de Frei Montalva, junto a su renuncia a este partido porque ella con otras personas más querían ejercer una revolución. Tras esto dicha personas crean el partido MAPU (Movimiento de Acción Popular Unitaria). Aborda también el tema de la creación de la Oficina Nacional de la Mujer en el gobierno de Frei Montalva y, posteriormente, el Ministerio de la Familia en el gobierno de la UP, donde Carmen participó activamente. Conversa acerca de otros hechos ocurridos en los años 70 como la muerte del General Schneider, la visita de Fidel Castro, el desbastecimiento, el mercado negro y las JAP (Juntas de Abastecimiento y Control de Precios). Finalmente, habla de los cacerolazos organizados por la clase alta para protestar en contra del desabastecimiento y la marcha de las ollas vacías." ;
+    schema:additionalType "Video" ;
+    schema:datePublished "2020-06-09T16:53:08Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 09 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Documental mujeres. 2 Gloria Aguayo" ;
+    schema:url <https://youtu.be/xhlkWgp3nUM> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31569> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Entrevista a Mireya Baltra (suplementera y política del Partido Comunista de Chile, fue diputada en 1969 y Ministra del Trabajo y Previsión Social en el gobierno de la UP). Comienza hablando acerca de su labor como concejala en el gobierno de la UP por educar a niños y jóvenes que se convirtieran en personas íntegras en su adultez, también habla de su lucha como dirigente sindical, trabajo con el cual logró que se crearán comités de mujeres en los cités de Santiago. Igualmente, habla de sus reuniones con prostitutas de Santiago, con las cuales se formó un comité, una biblioteca, una cocina y un comedor. Comenta las dificultades que se le presentan a una mujer por ser dirigenta sindical y las batallas que se presentaron por una mayor participación de la mujer. Conversa acerca del trato a la mujer en el parlamento y su relación con sus compañeras diputadas, luego cuenta sobre su experiencia al ser nombrada por Allende la primera Ministra del Trabajo mujer en Chile." ;
+    schema:additionalType "Video" ;
+    schema:datePublished "2020-06-09T16:53:09Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 10 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "3 Mireya Baltra" ;
+    schema:url <https://youtu.be/qU8lLGtrcjU> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31570> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Entrevista a Mireya Baltra (suplementera y política del Partido Comunista de Chile, fue diputada en 1969 y Ministra del Trabajo y Previsión Social en el gobierno de la UP). En esta habla sobre la gran participación de la mujer en varios aspectos de la vida nacional durante fines de los años 60 y comienzos de los 70, cosiderando los Centros de Madres, la Secretaría Nacional de la Mujer, las JAP (Juntas de Abastecimiento y Control de Precios), entre otras instancias. Conversa de su experiencia como Secretaria General de las mujeres de la Unidad Popular. Aborda el tema del desabastecimiento, y de la justicia y seguridad social que se intento alcanzar con el gobierno de la UP, junto con la construcción de las viviendas sociales, el medio litro de leche para cada niño. Para ella el cambio fundamental en esta época fue el establecimiento de la soberanía popular y la participación del pueblo. Se refiere a la marcha de las ollas vacías como el primer paso de masas de la contrarevolución. Posteriormente, se muestra una entrevista realizada a Carmen Lazo (diputada y política chilena del Partido Socialista de Chile). Comenta de su ingreso al Partido Socialista en el año 1933, con tal solo 13 años. Habla de que fue dirigenta de este partido en todos sus niveles, también fue dirigenta nacional de los empleados particulares en los años 50, fue dirigenta de la Confederación de Trabajadores de Chile (actual CUT) en Santiago. También fue regidora de Santiago entre 1943 y 1947, y diputada desde 1965 hasta el golpe militar. Impulsó leyes respecto a la mujer como bloque con las demás mujeres que eran diputadas y defendió la nacionalización del cobre. Comenta acerca de la participación de la mujer, incluyéndose, en el Partido Socialista." ;
+    schema:additionalType "Video" ;
+    schema:dateCreated "1993" ;
+    schema:datePublished "2020-06-09T16:53:09Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 11 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "4 Mireya Baltra. Carmen Lazo" ;
+    schema:url <https://youtu.be/Z73GIwaZqM4> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31571> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Fotografías de Elena Caffarena (abogada y activista política feminista chilena), además de otras variadas fotografias de diarios, personajes y acontecimientos de comienzos del siglo XX en Chile. Se muestra también material audiovisual donde aparece una actriz (Maricarmen Arrigorriaga) hablando de cuándo la mujer obtuvo derecho a voto en 1934, sin embargo, aún se buscaba el voto político sin restricciones para la mujer. Luego, esta actriz toma la voz de la Doctora Eloísa Díaz. Después, otra actriz (***) habla del MEMCH y la celebración de algunos congresos internacionales de este, también comenta de la realización del Primer Congreso Nacional de Mujeres de Chile en 1944, donde se crea la FECHIF (Federación Chile de Instituciones Femeninas). Posteriormente, aparece la actriz Rebeca Ghigliotto comentando acerca de la promulgación del voto político a la mujer en 1949. En otra escena hay cuatro actrices, y una de ellas (Maricarmen Arrigorriaga) cita algunas palabras del presidente Alessandri Palma respecto a la mujer en los años de su presidencia. Luego, otra de las actrices dirige su palabra como mujer a aquellas que han luchado y asumido la responsabilidad de servir en la vanguardia. Se muestra otra escena con cinco actrices, donde estas se ponen a caminar, retirándose del plano de la cámara, por la Estación Central. Se observan imágenes (sin audio) de las cinco actrices moviéndose por la Estación Central, reorganizándose, hay una toma picada donde una de las actrices observa directamente a la cámara. Hay una toma de las pantorillas y pies de una de las mujeres, con falda y tacones, que se retira del plano. Hay otra de esta mujer alejándose de la cámara y también hay una donde se acerca a esta y anuncia el avecinamiento de la aurora de las organizaciones femeninas de Chile. Esta última actriz comenta acerca de los gobiernos fugaces luego del de Carlos Ibáñez del Campo." ;
+    schema:additionalType "Video" ;
+    schema:datePublished "2020-06-09T16:53:09Z" ;
+    schema:encodingFormat "image/png" ;
+    schema:identifier "Caja 02 Carp 12 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Fotos Sra. E. Caffarena" ;
+    schema:url <https://youtu.be/YF8qxZErn8s> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31572> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Entrevista a Elena Caffarena (abogada y activista política feminista chilena). En esta comenta sobre su interés por estudiar Leyes, la lucha de las mujeres por conseguir su voto político y habla sobre su viaje a Francia. Se refiere a la importancia de la Ley Amunátegui y a cómo se formó el MEMCH (Movimiento por la Emancipación de las Mujeres de Chile). Conversa sobre el FECHIF (Federación Chilena de Instituciones Femeninas) y el Partido Femenino de Chile liderado por María de la Cruz. Igualmente, comenta de la aplicación que le ejercieron a ella de la Ley de Defensa de la Democracia. Hay imágenes que muestran a Elena tomando té con Diamela Eltit, Lotty Rosenfeld y Kena Lorenzini. Elena se refiere también a su no participación en partidos o cargos políticos y a su continuidad como feminista, a pesar de terminarse el MEMCH. Finalmente, conversa un poco en torno a los libros que ella escribió y fueron publicados." ;
+    schema:additionalType "Video" ;
+    schema:dateCreated "199-?" ;
+    schema:datePublished "2020-06-09T16:53:09Z" ;
+    schema:encodingFormat "image/png" ;
+    schema:identifier "Caja 02 Carp 13 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Respaldo Lotty Rosenfeld. E. Caffarena" ;
+    schema:url <https://youtu.be/TX3ZSQ_Zeo0> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31573> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Entrevista a Elena Caffarena (abogada y activista política feminista chilena). Conversan acerca de la tecnología y del libro \"Participación sociopolítica\" de Teresa Valdés, entre otros temas más cotidianos. Habla de su compromiso con los derechos de la mujer, con ciertas problemáticas sociales y su mirada progresista en la época de su juventud. Se refiere a su visión social de ese entonces, hace una comparación de esta con la perspectiva de Amanda Labarca. Comenta cómo y por quiénes se formó el MEMCH (Movimiento de Emancipación de las Mujeres de Chile) y su no filiación a ningún partido político. También alude a la influencia de Marta Vergara en su perspectiva feminista y a su vínculo con el Presidente Pedro Aguirre Cerda. Conversa acerca del fin de muchos movimientos feministas, la conformación de otros y los libros que escribió mientras ocurrían otros procesos sociales. Igualmente, habla de su cargo de delegada en el Consejo de Defensa del Niño, de los aportes para las mujeres de los gobiernos de Frei Montalva, Allende, la dictadura de Pinochet y en la vuelta a la democracia. De igual modo, hay incluído aterial audiovisual que da cuenta de una entrevista a Olga Poblete (feminista y profesora chilena). En esta ella comenta sobre su pensamiento antimperialista, luego de estudiar un postgrado en Estados Unidos, habla de su participación en movimientos pacifistas y de la desintegración del MEMCH. Se refiere a la conformación de los Comité de Mujeres Chilenas, sus viajes por el mundo y sus labores como Profesora de Historia en ese entonces. Conversa también respecto a los procesos sociales del siglo XX a nivel mundial." ;
+    schema:additionalType "Video" ;
+    schema:dateCreated "1989" ;
+    schema:datePublished "2020-06-09T16:53:09Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 14 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Mat de Cámara. Sra. Elena. 3era Olguita (Lotty). Entrevista 7/92" ;
+    schema:url <https://youtu.be/qDEFCGr6UVY> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31574> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Entrevista a Elena Caffarena (abogada y activista política feminista chilena). En esta ella habla sobre el divorcio y la maternidad responsable o escogida como dos de los temas fundamentales de la mujer. Conversa acerca de su experiencia como madre, la problemática del poder entre las mujeres y la escasa participación de las mujeres en el parlamento. Además, alude a situación de la mujer a principios de los años 90 en Chile y a su relación con otros movimientos feministas a nivel internacional, sobretodo latinoamericano. Se refiere a su desinterés por emprender una carrera política y a la progresiva disminución de la actividad de los movimientos de mujeres luego de conseguir el voto político. Comenta también las temáticas tratadas en los libros que escribió y habla respecto a las ramas del feminismo. Hace alusión a su motivación para estudiar Leyes en los años 20 del siglo pasado y para pertenecer a un movimiento feminista. Conversa acerca de su viaje a Francia, luego de terminar su carrera de abogada, también sobre las diversas organizaciones de mujeres antes de 1935 y de la Ley Amunátegui. Igualmente, habla de su labor como Secretaria General del MEMCH (Movimiento de Emancipación de las Mujeres de Chile) y de cómo se formó este movimiento. Se refiere a la demora para la aprobación del voto femenino, a las estrategias que se buscaban en los Congresos de Mujeres organizados por el MEMCH y a las características de quienes conformaron este movimiento. Conversa sobre la FECHIF (Federación Chilena de Instituciones Femeninas) y el Partido Femenino, liderado por María de la Cruz. Por último, habla de la aplicación de la Ley de Defensa de la Democracia que le ejercieron en 1949, con lo cual le quitaron su derecho a voto." ;
+    schema:additionalType "Video" ;
+    schema:dateCreated "1990" ;
+    schema:datePublished "2020-06-09T16:53:09Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 15 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Entrevista Sra. Elena Caffarena. Respaldo Mat. De Camara. Sra Elena Cafferena." ;
+    schema:url <https://youtu.be/SRMaCioDPQA> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31575> a schema:CreativeWork,
+        schema:VideoObject ;
+    schema:abstract "Entrevista a María de la Cruz (primera mujer senadora chilena y fundadora del Partido Femenino de Chile). Al principio aparece María de laCruz tocando el piano y luego empieza a hablar de la fundación del Partido Femenino de Chile. Se refiere a Carlos Ibáñez del Campo, a la llegada al senado de ella como la primera senadora chilena y de las demandas de las mujeres a partir de los años 20. Comenta acerca de la inhabilitación para ser senadora que le aplicaron y de su desinterés por seguir participando en la política luego de eso. Hace alusión a su vínculo exclusivo con el Partido Femenino y no con otros movimientos o partidos de la primera mitad del siglo XX. Conversa sobre su relación con los Perón de Argentina, habla de justicialismo y del Partido Agrario Laborista. Se refiere a su experiencia como la primera senadora chilena, feminista y a la discriminación que sufrió en su cargo. Igualmente, se muestra material audiovisual de una entrevista a Elena Caffarena (abogada y activista política feminista chilena). Ella habla acerca de la Ley Amunátegui y lo precoz del feminismo en Chile, respecto a otros países. Hace referencia a la lucha por los derechos humanos, comentando su experiencia de lucha y agregando también la ocurrida en el periodo de la dictadura en Chile. También habla de cómo se define a ella misma respecto a su vida. Se muestran grabaciones sin audio de Elena tomando té con Diamela Eltit, Lotty Rosenfeld y Kena Lorenzini. Conversa respecto a los Congresos de Mujeres organizados por el MEMCH, a la FECHIF (Federación Chilena de Instituciones Femeninas), liderada por Amanda Labarca y a los problemas partidarios en las organizaciones femeninas. Comenta sobre el Partido Femenino Chileno, liderado por María de la Cruz, de la aplicación que le hicieron de la Ley de Defensa de la Democracia en 1949 y de su apelación a esto. También habla de que no invitaron a mujeres del MEMCH a la celebración de la promulgación del derecho a voto político de la mujer y acerca de cómo se formó el MEMCH en la década del 30. Asimismo, alude a su cargo de Secretaria General del MEMCH, del retardo por parte de los partidos políticos para aprobar el derecho a voto universal de la mujer y de su propia calidad de partidaria del voto sin restricciones para la mujer, haciendo alusión a la opinión de Amanda Labarca también." ;
+    schema:additionalType "Video" ;
+    schema:datePublished "2020-06-09T16:53:09Z" ;
+    schema:encodingFormat "video/mp4" ;
+    schema:identifier "Caja 02 Carp 16 Doc 01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Respaldo Materiales de Cámara. 1. Entrevista María de la Cruz. 2. Entrevista Sra. Elena C. 3. Se refiere a María de la Cruz. 4. Se refiere a Amanda Labarca" ;
+    schema:url <https://youtu.be/HpZPYryx1Tw> .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31591> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Con anotaciones manuscritas de María de la Cruz." ;
+    schema:additionalType "Documento" ;
+    schema:dateCreated "1976" ;
+    schema:datePublished "2020-06-09T20:36:51Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01-09-01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Destino Nacionalista de Chile" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31655> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "\"Fotografía horizontal apaisada en blanco y negro. Aparece María de la Cruz con anteojos en la escalera juntos al Presidente de la Cámara de Diputados, los Presidentes Provinciales del Campus de Córdoba,  dos mujeres una de ellas Maria de la Cruz junto a cuatro hombres, uno de ellos su chófer y su hijo Joaquín.\"" ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:46Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz en Córdoba" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31656> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "\"Fotografía apaisada en blanco y negro. Aparece atrás a la izquierda, María de la Cruz al lado \"Tatin\" Letelier, en una comida. Se observan en una convivencia social un grupo de personas.\"" ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:47Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_10" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz en una comida" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31657> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "\"Negativos de rollo de cámara de dos fotos en blanco y negro, en una de ellas aparece María de la Cruz junto a un hombre y en la otra se observa un campo.\"" ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:48Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_11" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31658> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía a color de María de la Cruz posando en El Arrayán, fechada en diciembre de 1976." ;
+    schema:additionalType "Fotografía" ;
+    schema:dateCreated "diciembre 1976" ;
+    schema:datePublished "2020-09-10T02:59:49Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_12" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz posando en el Arrayán" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31659> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía apaisada alargada en blanco y negro. María de la Cruz junto a un Juan Perón en una entrevista." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:50Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_13" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz Toledo a su lado Juan Perón" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31660> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Collage de dos fotos en blanco y negro. Una de ellas muestra, parte de un desfile de Partido Feminista en Chile y la otra a María de la Cruz sentada junto a un hombre." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:52Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_14" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Collage de fotografías de María de la Cruz" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31661> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía apaisada en blanco y negro. Aparecen varios hombres observando un objeto pequeño, al parecer medio transparente." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:52Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_15" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Varios hombres observando un objeto pequeño" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31662> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía de estudio apaisada en blanco y negro.  María de la Cruz (en la primera fila, quinta de izquierda a derecha) en un banquete en octubre de 1962." ;
+    schema:additionalType "Fotografía" ;
+    schema:dateCreated "octubre 1962" ;
+    schema:datePublished "2020-09-10T02:59:53Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_16" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz en una banquete ofrecidos por periodistas extranjeros" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31663> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía vertical en blanco y negro.  María de la Cruz junto a dos  periodistas, uno peruano y otro colombiano, año 1953." ;
+    schema:additionalType "Fotografía" ;
+    schema:dateCreated "enero 1953" ;
+    schema:datePublished "2020-09-10T02:59:53Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_17" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz junto a periodistas extranjeros" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31664> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía de estudio vertical en sepia. Aparece una mujer con un bebé, fechada en junio de 1924 aparentemente." ;
+    schema:additionalType "Fotografía" ;
+    schema:dateCreated "junio 1924" ;
+    schema:datePublished "2020-09-10T02:59:54Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_18" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Mujer con un bebé sentado." .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31665> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía vertical en blanco y negro.  María de la Cruz en compañía de Clarita Noguera y otra mujer sentadas. Al reverso de la fotografía: Bungalow n°3 de la colonia F.E.P. embalse C.B.A. Aquí vivi un mes en Argentina Córdoba, estoy con Clarita Noguera de Biandri." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:54Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_19" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz en compañía a Clarita Noguera y otra mujer" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31666> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Retrato antiguo en sepia con marco ovalado. Se observa una niña pequeña sentada en una silla para ser fotografiada, al parecer la abuela de María de la Cruz. Al reverso de la  fotografía: Recuerdo de mi querida abuelita Edicia Toledo." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:55Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_02" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Edicia Toledo madre de María de la Cruz" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31667> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía apaisada en blanco y negro.  María de la Cruz al extremo derecho, en compañía de un hombre y dos parejas, en el matrimonio civil de su hijo. Al reverso de la fotografía: Matrimonio civil de mi hijo Joaquín, con su legítima esposa Violeta Galvez y Mariano Fontecilla (M. de justicia)." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:55Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_20" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Matrimonio civil del hijo Joaquín de María de la Cruz, con su legítima esposa Violeta" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31668> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía apaisada en blanco y negro. María de la Cruz en el frontis una casa en Pedro de Valdivia Norte, en febrero de 1979." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:56Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_21" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz en el frontis de la casa de Mariana Bestiano" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31669> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía apaisada en blanco y negro. María de la Cruz de pie frente a dos hombres sentados (Arturo Matte Larraín y B. Along Goldsach) en su casa en 1969." ;
+    schema:additionalType "Fotografía" ;
+    schema:dateCreated "1969" ;
+    schema:datePublished "2020-09-10T02:59:56Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_22" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz junto Arturo Matte Larraín y B. Along Goldsach" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31670> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía apaisada recortada en blanco y negro. María de la Cruz en una campaña del General Ibáñez." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:57Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_23" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz en una campaña del General Ibáñez" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31671> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía apaisada en blanco y negro. Aparece María de la Cruz en Cartagena, San Antonio el año 1963, junto a Gastón Acuña y su esposa." ;
+    schema:additionalType "Fotografía" ;
+    schema:dateCreated "01-12-1963" ;
+    schema:datePublished "2020-09-10T02:59:57Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_03" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz  junto a Gastón Acuña y su esposa en Cartagena" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31672> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía apaisada en blanco y negro. Aparece María de la Cruz junto a su hijo y un par de caballos en Buenos Aires." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:58Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_04" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz junto a su hijo en Buenos Aires" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31673> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía recortada en blanco y negro. Aparece María de la Cruz, a mano izquierda junto a una mujer que posa la mano en su hombro." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:58Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_05" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31674> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía apaisada alargada en blanco y negro. Aparece María de la Cruz sentada  junto a Juan Perón." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T02:59:59Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_06" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz junto a Juan Perón" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31675> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía apaisada tamaño pequeño en blanco y negro. María de la Cruz (en la última fila de abajo hacia arriba, la tercera de izquierda a derecha) acompañada de un grupo de personas, entre ellos  Luis Correa Prieto, María de la Cruz, Guillermo Izquierdo Araya, Elena Maluje." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T03:00:01Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_07" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz junto a un grupo de mujeres" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31676> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía de estudio apaisada en blanco y negro. Aparece María de la Cruz (quinta de izquierda a derecha) junto a variadas personas, entre ellos Luis Correa Prieto, Guillermo Izquierdo Araya y Elena Maluje, 23 de abril de 1973." ;
+    schema:additionalType "Fotografía" ;
+    schema:dateCreated "23-04-1973" ;
+    schema:datePublished "2020-09-10T03:00:01Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_08" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz junto a un grupo de personas" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31677> a schema:CreativeWork,
+        schema:ImageObject ;
+    schema:abstract "Fotografía apaisada en blanco y negro. María de la Cruz, acompañada de Julio Justiniano.  Al reverso de la fotografía: María de la Cruz que ayer fue proclamada candidata a senador por la juventud de la \"Unión Nacional de Independientes\" acompañada de Julio Justiniano P. que también fue proclamado candidato por el tercer distrito. Ambas candidaturas fueron proclamadas con entusiasmo por unanimidad." ;
+    schema:additionalType "Fotografía" ;
+    schema:datePublished "2020-09-10T03:00:03Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_05_09" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "María de la Cruz y Julio Justiniano" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31697> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Escrito mecanografiado de discurso de María de la Cruz en Radio La Verdad, 23 y 24 de agosto de 1970, se pronuncia a favor de la presidencia del candidato Jorge Alessandri." ;
+    schema:additionalType "Documento" ;
+    schema:dateCreated "23-08-1970" ;
+    schema:datePublished "2020-09-13T22:00:55Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_06_07" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Escrito del discurso de María de la Cruz en Radio La Verdad" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31698> a schema:CreativeWork ;
+    schema:abstract "Cuaderno con recortes de prensa que corresponden a textos de María de la Cruz y otros autores. Algunos recortes de prensa están sueltos. Además hay un manuscrito mecanografiado." ;
+    schema:additionalType "Recorte de prensa" ;
+    schema:dateCreated "1940 – 1947" ;
+    schema:datePublished "2020-09-13T22:00:56Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_08_01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Por el mundo de los ciegos: publicaciones mensuales" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31700> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Manuscrito titulado \"Pensamientos\", habla acerca de la soledad, la inteligencia, entre otras cosas." ;
+    schema:additionalType "Manuscrito" ;
+    schema:datePublished "2020-10-21T16:03:49Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_06_01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Manuscrito \"Pensamientos\"" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31701> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Manuscrito titulado \"Sintiendo por otro corazón\", es un poema en verso escrito por María de la Cruz, fechado el día 27 de febrero de 1937." ;
+    schema:additionalType "Manuscrito" ;
+    schema:dateCreated "1937" ;
+    schema:datePublished "2020-10-21T16:03:50Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_06_02" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Manuscrito \"Sintiendo por otro corazón\"." .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31702> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Manuscrito titulado \"Tardes de sábado\", dedicado a María de la Cruz donde se ensalza a su persona, fechado el 19 de diciembre de 1945." ;
+    schema:additionalType "Manuscrito" ;
+    schema:dateCreated "19-12-1945." ;
+    schema:datePublished "2020-10-21T16:03:50Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_06_03" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "\"Tardes de sábado\" dedicada a María de la Cruz." .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31703> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Escrito mecanografiado titulado \"Pensamiento de Emil Ludvig\", \"de Leonardo Da Vinci\" y \"Pensamiento de Leonardo Da Vinci\"." ;
+    schema:additionalType "Documento" ;
+    schema:datePublished "2020-10-21T16:03:50Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_06_04" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Escrito \"Pensamiento de Emil Ludvig\", \"de Leonardo Da Vinci\" y \"Pensamiento de Leonardo Da Vinci\"." .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31704> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Escrito mecanografiado titulado \"Pensamientos.- de Khalil Gibrán (el profeta\")." ;
+    schema:additionalType "Documento" ;
+    schema:datePublished "2020-10-21T16:03:50Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_06_05" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Escrito titulado \"Pensamientos\" de Khalil Gibrán" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31705> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Escrito mecanografiado que certifica un contenido de propiedad intelectual perteneciente a María de la Cruz, específicamente la obra \"Suprema Cita\", fechado el 6 de marzo de 1944." ;
+    schema:additionalType "Documento" ;
+    schema:dateCreated "06-03-1944." ;
+    schema:datePublished "2020-10-21T16:03:50Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_06_06" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Escrito que certifica contenido de propiedad intelectual perteneciente a María de la Cruz." .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31706> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Escrito mecanografiado de un poema para María de la Cruz donde se le halaga, la autora es Nina Donoso Correa." ;
+    schema:additionalType "Documento" ;
+    schema:datePublished "2020-10-21T16:03:51Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_06_08" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Escrito de un poema para María de la Cruz." .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31707> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Fragmento de la carta de Juan Perón dirigida a María de la Cruz, fechada el 15 de noviembre de 1958, enviada desde Ciudad Trujillo, República Dominicana. En este extracto, se aborda el tema del peronismo y el triunfo de Alessandri." ;
+    schema:additionalType "Documento" ;
+    schema:dateCreated "1958-11-15" ;
+    schema:datePublished "2020-10-21T16:03:51Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_06_09" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Extracto de carta de Juan Perón a María de la Cruz" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31708> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Manuscrito con apuntes titulado \"Máximos mínimos\" que habla sobre la inteligencia, el poder, el sacrificio." ;
+    schema:additionalType "Manuscrito" ;
+    schema:datePublished "2020-10-21T16:03:51Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_06_10" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Manuscrito con apuntes de \"Máximos mínimos\"." .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31709> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Manuscrito titulado \"Monosílabos de Niemer...\", en este hay apuntes especialmente sobre el tema del amor." ;
+    schema:additionalType "Manuscrito" ;
+    schema:datePublished "2020-10-21T16:03:51Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_06_11" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Manuscrito \"Monosílabos de Niemer...\"" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31710> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Manuscrito titulado \"Extractos de pensamientos de otros que coinciden con los míos\", fechado en el año 1980, en este se comenta sobre el afecto, el amor, el capitalismo, la mentira del comunismo, entre otros." ;
+    schema:additionalType "Manuscrito" ;
+    schema:dateCreated "1980" ;
+    schema:datePublished "2020-10-21T16:03:51Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_06_12" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Manuscrito  \"Extractos de pensamientos de otros que coinciden con los míos\"" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31711> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Muestra como título \"Mis memorias\" Copias." ;
+    schema:additionalType "Documento" ;
+    schema:datePublished "2020-10-21T16:03:51Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_07_01" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "\"Mis memorias\" Copias." .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31712> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Escrito mecanografiado de María de la Cruz, tiene por título \"Infancia\", en este comenta sobre sus primeros recuerdos, de un artículo publicado en El Mercurio por Enrique Lafourcade, de otro escrito por el periodista Oscar Pinochet de la Barra, habla de sus orígenes, de su familia, de su matrimonio y muestra un poema de ella dedicado a Delmira Agustini." ;
+    schema:additionalType "Documento" ;
+    schema:datePublished "2020-10-21T16:03:52Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_07_03" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Escrito de María de la Cruz, tiene por título \"Infancia\"." .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31713> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Escrito mecanografiado de María de la Cruz, tiene por título \"Seguna parte. Juventud\", en este habla acerca del desaliento, la angustia, la esperanza, muestra un poema escrito a su madre. También comenta en torno a sus escritos y publicaciones, antologías poéticas, una novela, u ensayo, entre otros. Expone otro poema, y además habla acerca de la tristeza, la alegría, la política, su revista \"Luz y Sombra\", su acercamiento a conocer la pobreza." ;
+    schema:additionalType "Documento" ;
+    schema:datePublished "2020-10-21T16:03:52Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_07_04" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Escrito de María de la Cruz, tiene por título \"Seguna parte. Juventud\"." .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31714> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Escrito mecanografiado de María de la Cruz, tiene por título \"Tercera parte. Política\", aquí comenta su decisión de formar el Partido Femenino de Chile, su participación en la campaña y gobierno de Carlos Ibáñez del Campo, la propuesta de este para que ella fuera Senadora, muestra un poema que ella le escribió a él y que este terminó distribuyendo en Chile y Argentina. Finalmente, comenta el suceso de la inhabilitación como Senadora que ejercieron hacia ella." ;
+    schema:additionalType "Documento" ;
+    schema:datePublished "2020-10-21T16:03:52Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_07_05" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Escrito mecanografiado de María de la Cruz, tiene por título \"Tercera parte. Política\"" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31715> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Manuscrito de Jardiel Pondela, donde María de la Cruz escribe algunos apuntes de este texto, tratan sobre la inteligencia, el sacrificio, la Historia, el patrimonio, entre otros tópicos." ;
+    schema:additionalType "Manuscrito" ;
+    schema:datePublished "2020-10-21T16:03:52Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_10_04" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Máximas mínimas" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31716> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Manuscrito de frases escritas por María de la Cruz sobre diversas temáticas como los amigos, la vida, la mediocridad." ;
+    schema:additionalType "Manuscrito" ;
+    schema:datePublished "2020-10-21T16:03:52Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_10_05" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Frases escritas por María de la Cruz" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31717> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Manuscrito de María de la Cruz, donde escribe diversas frases célebres de variados autores, entre estos Emil Ludwig, Felicitas Klimpel, Jardiel Poncela, entre otros." ;
+    schema:additionalType "Manuscrito" ;
+    schema:datePublished "2020-10-21T16:03:52Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_10_06" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Frases célebres" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31718> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Manuscrito que representa un poema de María de la Cruz, fechado en diciembre de 1975." ;
+    schema:additionalType "Manuscrito" ;
+    schema:dateCreated "diciembre 1975" ;
+    schema:datePublished "2020-10-21T16:03:53Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_10_07" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Presencia nueva" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31719> a schema:CreativeWork ;
+    schema:abstract "Carta mecanografiada de María de la Cruz dirigida al presidente Jorge Alessandri con fecha 8 de junio de 1961. En esta le rinde homenaje, le muestra su admiración hacia él y le da sus bendiciones." ;
+    schema:additionalType "Carta" ;
+    schema:dateCreated "08-06-1971" ;
+    schema:datePublished "2020-10-21T16:03:53Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_10_08" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Carta mecanografiada de María de la Cruz dirigida al presidente Jorge Alessandri" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31720> a schema:CreativeWork ;
+    schema:abstract "Carta mecanografiada de María de la Cruz al presidente Jorde Alessandri R., fechada el 20 de agosto de 1961. En esta carta le comenta, entre otras cosas la lucha que deben realizar contra el comunismo." ;
+    schema:additionalType "Correspondencia" ;
+    schema:dateCreated "20-08-1961" ;
+    schema:datePublished "2020-10-21T16:03:53Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_10_10" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Carta mecanografiada de María de la Cruz al presidente Jorge Alessandri R." .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31721> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Anteportada de libro \"Alba de oro\", último libro de María de la Cruz." ;
+    schema:additionalType "Documento" ;
+    schema:datePublished "2020-10-21T16:03:53Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_10_15" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Anteportada de libro \"Alba de oro\"" .
+
+<https://archivospatrimoniales.uc.cl/handle/123456789/31722> a schema:CreativeWork,
+        schema:Text ;
+    schema:abstract "Poema manuscrito de María de la Cruz titulado \"Insomnio\" con fecha en diciembre de 1975." ;
+    schema:additionalType "Manuscrito" ;
+    schema:dateCreated "diciembre 1975" ;
+    schema:datePublished "2020-10-21T16:03:53Z" ;
+    schema:encodingFormat "application/pdf" ;
+    schema:identifier "01_10_16" ;
+    schema:isPartOf <https://example.org/dataset/eltit> ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Poema insomnio" .
+
+<https://example.org/dataset/eltit> a schema:Dataset ;
+    dc:title "Archivo Eltit - Rosenfeld" ;
+    schema:address "Biblioteca de Humanidades, 3er piso - Vicuña Mackenna 4860, Macul" ;
+    schema:dateCreated "2026-08-07" ;
+    schema:description "El Archivo Eltit-Rosenfeld es un fondo documental creado por la artista Lotty Rosenfeld y la escritora Diamela Eltit a fines de la década del 80 y principios de la del 90, para el rescate de los testimonios y la memoria del movimiento de mujeres por el derecho a voto en Chile" ;
+    schema:email "archivosuc@uc.cl" ;
+    schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    schema:name "Archivo Eltit - Rosenfeld" ;
+    schema:url <https://archivospatrimoniales.uc.cl/handle/123456789/31557> .
+
