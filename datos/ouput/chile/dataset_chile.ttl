@@ -1,28 +1,34 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <https://archivospatrimoniales.uc.cl///handle/123456789/61944> a schema:CreativeWork,
         schema:VideoObject ;
     schema:abstract "Fragmentos de Congreso Internacional de Literatura Femenina Latinoamericana, que se llevó a cabo en Santiago de Chile el 17 de agosto de 1987. Incluyó en su programa una serie de mesas de discusión sobre crítica literaria y teoría feminista, literatura y patriarcado, estrategias del discurso femenino, poesía y narrativa latinoamericana, además de recitales poéticos y encuentros con escritoras de diferentes latitudes. Aparecen: Eliana Ortega (escritora chilena), Ida Vitalle (poeta uruguaya), Lucia Guerra (crítica chilena), Diamela Eltit (escritora chilena), Nelly Richard (crítica chilena), José Donoso (escritor chileno), María Maluenda (actriz chilena), Jorge Edwards (escritor chileno), Beatriz Sarlo (crítica argentina), Antoinette Fouque (editora francesa), Eugenia Brito (crítica chilena), y Josefina Lubner (crítica argentina)." ;
     schema:additionalType "Video" ;
+    schema:author <https://example.org/author/rosenfeld-lotty> ;
     schema:dateCreated "1987-08-17" ;
     schema:datePublished "2023-04-28T21:11:13Z" ;
     schema:encodingFormat "video/mp4" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Congreso Internacional de Literatura Femenina Latinoamericana" .
+    schema:name "Congreso Internacional de Literatura Femenina Latinoamericana" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl///handle/123456789/63938> a schema:CreativeWork,
         schema:Text ;
     schema:abstract "Con anotaciones manuscritas de María de la Cruz." ;
     schema:additionalType "Documento" ;
+    schema:author <https://example.org/author/vergara-paredes-hernan> ;
     schema:dateCreated "1976" ;
     schema:datePublished "2020-06-09T20:36:51Z" ;
     schema:encodingFormat "application/pdf" ;
     schema:identifier "01-09-01" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Destino Nacionalista de Chile" .
+    schema:name "Destino Nacionalista de Chile" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31560> a schema:CreativeWork,
         schema:VideoObject ;
@@ -34,6 +40,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Material de cámara sufragio 2) Estación Central" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be./sMBLYywODOk> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31561> a schema:CreativeWork,
@@ -47,6 +54,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Cinta de trabajo. Liliana Walker, Elena Caffarena" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/1AVXXDCfy4U> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31562> a schema:CreativeWork,
@@ -59,6 +67,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Estación actrices sufragio. Material de Cámara" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/OtvITzlVYtw> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31563> a schema:CreativeWork,
@@ -72,6 +81,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Material de Cámara Baile Meneca" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/3ErG4vwh6ho> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31564> a schema:CreativeWork,
@@ -85,6 +95,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Material de Cámara. Entrevista a María de la Cruz. Diamela Eltit" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/UfWGDn0QMuk> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31565> a schema:CreativeWork,
@@ -98,6 +109,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Material de Cámara. Entrevista a Olga Poblete 2ª parte. Diamela Eltit" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/OykVsebxgSc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31566> a schema:CreativeWork,
@@ -111,6 +123,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Material de Cámara. Entrevista a Olga Poblete y Elena Caffarena 3ª parte. Diamela Eltit" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be./nfTUppZvQ1k> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31567> a schema:CreativeWork,
@@ -123,6 +136,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Documental mujeres. Material de Cámara. Actrices Cámara" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be./w5aIhbq4pF8> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31568> a schema:CreativeWork,
@@ -135,6 +149,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Documental mujeres. 2 Gloria Aguayo" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/xhlkWgp3nUM> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31569> a schema:CreativeWork,
@@ -147,6 +162,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "3 Mireya Baltra" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/qU8lLGtrcjU> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31570> a schema:CreativeWork,
@@ -160,6 +176,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "4 Mireya Baltra. Carmen Lazo" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/Z73GIwaZqM4> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31571> a schema:CreativeWork,
@@ -172,6 +189,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Fotos Sra. E. Caffarena" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/YF8qxZErn8s> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31572> a schema:CreativeWork,
@@ -185,6 +203,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Respaldo Lotty Rosenfeld. E. Caffarena" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/TX3ZSQ_Zeo0> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31573> a schema:CreativeWork,
@@ -198,6 +217,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Mat de Cámara. Sra. Elena. 3era Olguita (Lotty). Entrevista 7/92" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/qDEFCGr6UVY> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31574> a schema:CreativeWork,
@@ -211,6 +231,7 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Entrevista Sra. Elena Caffarena. Respaldo Mat. De Camara. Sra Elena Cafferena." ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/SRMaCioDPQA> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31575> a schema:CreativeWork,
@@ -223,19 +244,22 @@
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
     schema:name "Respaldo Materiales de Cámara. 1. Entrevista María de la Cruz. 2. Entrevista Sra. Elena C. 3. Se refiere a María de la Cruz. 4. Se refiere a Amanda Labarca" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> ;
     schema:url <https://youtu.be/HpZPYryx1Tw> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31591> a schema:CreativeWork,
         schema:Text ;
     schema:abstract "Con anotaciones manuscritas de María de la Cruz." ;
     schema:additionalType "Documento" ;
+    schema:author <https://example.org/author/vergara-paredes-hernan> ;
     schema:dateCreated "1976" ;
     schema:datePublished "2020-06-09T20:36:51Z" ;
     schema:encodingFormat "application/pdf" ;
     schema:identifier "01-09-01" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Destino Nacionalista de Chile" .
+    schema:name "Destino Nacionalista de Chile" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31655> a schema:CreativeWork,
         schema:ImageObject ;
@@ -246,7 +270,8 @@
     schema:identifier "01_05_01" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz en Córdoba" .
+    schema:name "María de la Cruz en Córdoba" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31656> a schema:CreativeWork,
         schema:ImageObject ;
@@ -257,7 +282,8 @@
     schema:identifier "01_05_10" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz en una comida" .
+    schema:name "María de la Cruz en una comida" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31657> a schema:CreativeWork,
         schema:ImageObject ;
@@ -268,7 +294,8 @@
     schema:identifier "01_05_11" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz" .
+    schema:name "María de la Cruz" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31658> a schema:CreativeWork,
         schema:ImageObject ;
@@ -280,7 +307,8 @@
     schema:identifier "01_05_12" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz posando en el Arrayán" .
+    schema:name "María de la Cruz posando en el Arrayán" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31659> a schema:CreativeWork,
         schema:ImageObject ;
@@ -291,7 +319,8 @@
     schema:identifier "01_05_13" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz Toledo a su lado Juan Perón" .
+    schema:name "María de la Cruz Toledo a su lado Juan Perón" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31660> a schema:CreativeWork,
         schema:ImageObject ;
@@ -302,7 +331,8 @@
     schema:identifier "01_05_14" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Collage de fotografías de María de la Cruz" .
+    schema:name "Collage de fotografías de María de la Cruz" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31661> a schema:CreativeWork,
         schema:ImageObject ;
@@ -313,7 +343,8 @@
     schema:identifier "01_05_15" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Varios hombres observando un objeto pequeño" .
+    schema:name "Varios hombres observando un objeto pequeño" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31662> a schema:CreativeWork,
         schema:ImageObject ;
@@ -325,7 +356,8 @@
     schema:identifier "01_05_16" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz en una banquete ofrecidos por periodistas extranjeros" .
+    schema:name "María de la Cruz en una banquete ofrecidos por periodistas extranjeros" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31663> a schema:CreativeWork,
         schema:ImageObject ;
@@ -337,7 +369,8 @@
     schema:identifier "01_05_17" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz junto a periodistas extranjeros" .
+    schema:name "María de la Cruz junto a periodistas extranjeros" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31664> a schema:CreativeWork,
         schema:ImageObject ;
@@ -349,7 +382,8 @@
     schema:identifier "01_05_18" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Mujer con un bebé sentado." .
+    schema:name "Mujer con un bebé sentado." ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31665> a schema:CreativeWork,
         schema:ImageObject ;
@@ -360,7 +394,8 @@
     schema:identifier "01_05_19" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz en compañía a Clarita Noguera y otra mujer" .
+    schema:name "María de la Cruz en compañía a Clarita Noguera y otra mujer" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31666> a schema:CreativeWork,
         schema:ImageObject ;
@@ -371,7 +406,8 @@
     schema:identifier "01_05_02" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Edicia Toledo madre de María de la Cruz" .
+    schema:name "Edicia Toledo madre de María de la Cruz" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31667> a schema:CreativeWork,
         schema:ImageObject ;
@@ -382,7 +418,8 @@
     schema:identifier "01_05_20" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Matrimonio civil del hijo Joaquín de María de la Cruz, con su legítima esposa Violeta" .
+    schema:name "Matrimonio civil del hijo Joaquín de María de la Cruz, con su legítima esposa Violeta" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31668> a schema:CreativeWork,
         schema:ImageObject ;
@@ -393,7 +430,8 @@
     schema:identifier "01_05_21" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz en el frontis de la casa de Mariana Bestiano" .
+    schema:name "María de la Cruz en el frontis de la casa de Mariana Bestiano" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31669> a schema:CreativeWork,
         schema:ImageObject ;
@@ -405,7 +443,8 @@
     schema:identifier "01_05_22" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz junto Arturo Matte Larraín y B. Along Goldsach" .
+    schema:name "María de la Cruz junto Arturo Matte Larraín y B. Along Goldsach" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31670> a schema:CreativeWork,
         schema:ImageObject ;
@@ -416,7 +455,8 @@
     schema:identifier "01_05_23" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz en una campaña del General Ibáñez" .
+    schema:name "María de la Cruz en una campaña del General Ibáñez" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31671> a schema:CreativeWork,
         schema:ImageObject ;
@@ -428,7 +468,8 @@
     schema:identifier "01_05_03" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz  junto a Gastón Acuña y su esposa en Cartagena" .
+    schema:name "María de la Cruz  junto a Gastón Acuña y su esposa en Cartagena" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31672> a schema:CreativeWork,
         schema:ImageObject ;
@@ -439,7 +480,8 @@
     schema:identifier "01_05_04" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz junto a su hijo en Buenos Aires" .
+    schema:name "María de la Cruz junto a su hijo en Buenos Aires" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31673> a schema:CreativeWork,
         schema:ImageObject ;
@@ -450,7 +492,8 @@
     schema:identifier "01_05_05" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz" .
+    schema:name "María de la Cruz" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31674> a schema:CreativeWork,
         schema:ImageObject ;
@@ -461,7 +504,8 @@
     schema:identifier "01_05_06" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz junto a Juan Perón" .
+    schema:name "María de la Cruz junto a Juan Perón" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31675> a schema:CreativeWork,
         schema:ImageObject ;
@@ -472,7 +516,8 @@
     schema:identifier "01_05_07" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz junto a un grupo de mujeres" .
+    schema:name "María de la Cruz junto a un grupo de mujeres" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31676> a schema:CreativeWork,
         schema:ImageObject ;
@@ -484,7 +529,8 @@
     schema:identifier "01_05_08" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz junto a un grupo de personas" .
+    schema:name "María de la Cruz junto a un grupo de personas" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31677> a schema:CreativeWork,
         schema:ImageObject ;
@@ -495,7 +541,8 @@
     schema:identifier "01_05_09" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "María de la Cruz y Julio Justiniano" .
+    schema:name "María de la Cruz y Julio Justiniano" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31697> a schema:CreativeWork,
         schema:Text ;
@@ -507,7 +554,8 @@
     schema:identifier "01_06_07" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Escrito del discurso de María de la Cruz en Radio La Verdad" .
+    schema:name "Escrito del discurso de María de la Cruz en Radio La Verdad" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31698> a schema:CreativeWork ;
     schema:abstract "Cuaderno con recortes de prensa que corresponden a textos de María de la Cruz y otros autores. Algunos recortes de prensa están sueltos. Además hay un manuscrito mecanografiado." ;
@@ -518,7 +566,8 @@
     schema:identifier "01_08_01" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Por el mundo de los ciegos: publicaciones mensuales" .
+    schema:name "Por el mundo de los ciegos: publicaciones mensuales" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31700> a schema:CreativeWork,
         schema:Text ;
@@ -529,7 +578,8 @@
     schema:identifier "01_06_01" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Manuscrito \"Pensamientos\"" .
+    schema:name "Manuscrito \"Pensamientos\"" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31701> a schema:CreativeWork,
         schema:Text ;
@@ -541,7 +591,8 @@
     schema:identifier "01_06_02" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Manuscrito \"Sintiendo por otro corazón\"." .
+    schema:name "Manuscrito \"Sintiendo por otro corazón\"." ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31702> a schema:CreativeWork,
         schema:Text ;
@@ -553,7 +604,8 @@
     schema:identifier "01_06_03" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "\"Tardes de sábado\" dedicada a María de la Cruz." .
+    schema:name "\"Tardes de sábado\" dedicada a María de la Cruz." ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31703> a schema:CreativeWork,
         schema:Text ;
@@ -564,7 +616,8 @@
     schema:identifier "01_06_04" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Escrito \"Pensamiento de Emil Ludvig\", \"de Leonardo Da Vinci\" y \"Pensamiento de Leonardo Da Vinci\"." .
+    schema:name "Escrito \"Pensamiento de Emil Ludvig\", \"de Leonardo Da Vinci\" y \"Pensamiento de Leonardo Da Vinci\"." ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31704> a schema:CreativeWork,
         schema:Text ;
@@ -575,7 +628,8 @@
     schema:identifier "01_06_05" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Escrito titulado \"Pensamientos\" de Khalil Gibrán" .
+    schema:name "Escrito titulado \"Pensamientos\" de Khalil Gibrán" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31705> a schema:CreativeWork,
         schema:Text ;
@@ -587,7 +641,8 @@
     schema:identifier "01_06_06" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Escrito que certifica contenido de propiedad intelectual perteneciente a María de la Cruz." .
+    schema:name "Escrito que certifica contenido de propiedad intelectual perteneciente a María de la Cruz." ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31706> a schema:CreativeWork,
         schema:Text ;
@@ -598,7 +653,8 @@
     schema:identifier "01_06_08" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Escrito de un poema para María de la Cruz." .
+    schema:name "Escrito de un poema para María de la Cruz." ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31707> a schema:CreativeWork,
         schema:Text ;
@@ -610,7 +666,8 @@
     schema:identifier "01_06_09" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Extracto de carta de Juan Perón a María de la Cruz" .
+    schema:name "Extracto de carta de Juan Perón a María de la Cruz" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31708> a schema:CreativeWork,
         schema:Text ;
@@ -621,7 +678,8 @@
     schema:identifier "01_06_10" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Manuscrito con apuntes de \"Máximos mínimos\"." .
+    schema:name "Manuscrito con apuntes de \"Máximos mínimos\"." ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31709> a schema:CreativeWork,
         schema:Text ;
@@ -632,7 +690,8 @@
     schema:identifier "01_06_11" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Manuscrito \"Monosílabos de Niemer...\"" .
+    schema:name "Manuscrito \"Monosílabos de Niemer...\"" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31710> a schema:CreativeWork,
         schema:Text ;
@@ -644,7 +703,8 @@
     schema:identifier "01_06_12" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Manuscrito  \"Extractos de pensamientos de otros que coinciden con los míos\"" .
+    schema:name "Manuscrito  \"Extractos de pensamientos de otros que coinciden con los míos\"" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31711> a schema:CreativeWork,
         schema:Text ;
@@ -655,7 +715,8 @@
     schema:identifier "01_07_01" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "\"Mis memorias\" Copias." .
+    schema:name "\"Mis memorias\" Copias." ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31712> a schema:CreativeWork,
         schema:Text ;
@@ -666,7 +727,8 @@
     schema:identifier "01_07_03" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Escrito de María de la Cruz, tiene por título \"Infancia\"." .
+    schema:name "Escrito de María de la Cruz, tiene por título \"Infancia\"." ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31713> a schema:CreativeWork,
         schema:Text ;
@@ -677,7 +739,8 @@
     schema:identifier "01_07_04" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Escrito de María de la Cruz, tiene por título \"Seguna parte. Juventud\"." .
+    schema:name "Escrito de María de la Cruz, tiene por título \"Seguna parte. Juventud\"." ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31714> a schema:CreativeWork,
         schema:Text ;
@@ -688,7 +751,8 @@
     schema:identifier "01_07_05" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Escrito mecanografiado de María de la Cruz, tiene por título \"Tercera parte. Política\"" .
+    schema:name "Escrito mecanografiado de María de la Cruz, tiene por título \"Tercera parte. Política\"" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31715> a schema:CreativeWork,
         schema:Text ;
@@ -699,7 +763,8 @@
     schema:identifier "01_10_04" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Máximas mínimas" .
+    schema:name "Máximas mínimas" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31716> a schema:CreativeWork,
         schema:Text ;
@@ -710,7 +775,8 @@
     schema:identifier "01_10_05" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Frases escritas por María de la Cruz" .
+    schema:name "Frases escritas por María de la Cruz" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31717> a schema:CreativeWork,
         schema:Text ;
@@ -721,7 +787,8 @@
     schema:identifier "01_10_06" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Frases célebres" .
+    schema:name "Frases célebres" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31718> a schema:CreativeWork,
         schema:Text ;
@@ -733,7 +800,8 @@
     schema:identifier "01_10_07" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Presencia nueva" .
+    schema:name "Presencia nueva" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31719> a schema:CreativeWork ;
     schema:abstract "Carta mecanografiada de María de la Cruz dirigida al presidente Jorge Alessandri con fecha 8 de junio de 1961. En esta le rinde homenaje, le muestra su admiración hacia él y le da sus bendiciones." ;
@@ -744,7 +812,8 @@
     schema:identifier "01_10_08" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Carta mecanografiada de María de la Cruz dirigida al presidente Jorge Alessandri" .
+    schema:name "Carta mecanografiada de María de la Cruz dirigida al presidente Jorge Alessandri" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31720> a schema:CreativeWork ;
     schema:abstract "Carta mecanografiada de María de la Cruz al presidente Jorde Alessandri R., fechada el 20 de agosto de 1961. En esta carta le comenta, entre otras cosas la lucha que deben realizar contra el comunismo." ;
@@ -755,7 +824,8 @@
     schema:identifier "01_10_10" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Carta mecanografiada de María de la Cruz al presidente Jorge Alessandri R." .
+    schema:name "Carta mecanografiada de María de la Cruz al presidente Jorge Alessandri R." ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31721> a schema:CreativeWork,
         schema:Text ;
@@ -766,7 +836,8 @@
     schema:identifier "01_10_15" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Anteportada de libro \"Alba de oro\"" .
+    schema:name "Anteportada de libro \"Alba de oro\"" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
 
 <https://archivospatrimoniales.uc.cl/handle/123456789/31722> a schema:CreativeWork,
         schema:Text ;
@@ -778,7 +849,23 @@
     schema:identifier "01_10_16" ;
     schema:isPartOf <https://example.org/dataset/eltit> ;
     schema:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-    schema:name "Poema insomnio" .
+    schema:name "Poema insomnio" ;
+    schema:sourceOrganization <https://example.org/organisation/pucc> .
+
+<https://example.org/author/rosenfeld-lotty> a foaf:Person,
+        schema:Person ;
+    skos:prefLabel "Rosenfeld, Lotty" ;
+    foaf:name "Rosenfeld, Lotty" ;
+    schema:name "Rosenfeld, Lotty" .
+
+<https://example.org/author/vergara-paredes-hernan> a foaf:Person,
+        schema:Person ;
+    skos:prefLabel "Hernán Vergara Paredes",
+        "Vergara Paredes, Hernán" ;
+    foaf:name "Hernán Vergara Paredes",
+        "Vergara Paredes, Hernán" ;
+    schema:name "Hernán Vergara Paredes",
+        "Vergara Paredes, Hernán" .
 
 <https://example.org/dataset/eltit> a schema:Dataset ;
     dc:title "Archivo Eltit - Rosenfeld" ;
@@ -790,3 +877,8 @@
     schema:name "Archivo Eltit - Rosenfeld" ;
     schema:url <https://archivospatrimoniales.uc.cl/handle/123456789/31557> .
 
+<https://example.org/organisation/pucc> a schema:Organization ;
+    dc:title "Pontificia Universidad Católica de Chile" ;
+    schema:logo <https://www.uc.cl/site/templates/dist/images/logo-uc-wh.svg> ;
+    schema:name "Pontificia Universidad Católica de Chile" ;
+    schema:url <https://www.uc.cl/> .
