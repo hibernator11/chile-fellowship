@@ -19,6 +19,9 @@ This work was done as part of a fellowship at the Pontificia Universidad Católi
 
 The Eltit-Rosenfeld Archive is a documentary collection created by the artist Lotty Rosenfeld and the writer Diamela Eltit in the late 1980s and early 1990s to preserve the testimonies and memory of the women’s movement for the right to vote in Chile. The folder datos includes the original XML data and the RDF generated as part of this work.
 
+The following figure illustrates the data modelling process using as main ontology Schema.org. 
+<img src="modelling.png">
+
 ## Example of queries
 
 This example of SPARQL query retrieves the works of the author Pablo Neruda in Wikidata combined with the works available at Biblioteca Virtual Miguel de Cervantes. It can be run in [this link](https://w.wiki/TJbo) using the Wikidata SPARQL endpoint. 
