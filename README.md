@@ -21,7 +21,7 @@ The Eltit-Rosenfeld Archive is a documentary collection created by the artist Lo
 
 ## Example of queries
 
-This example of SPARQL query retrieves the works of the author Pablo Neruda in Wikidata combined with the works available at Biblioteca Virtual Miguel de Cervantes. 
+This example of SPARQL query retrieves the works of the author Pablo Neruda in Wikidata combined with the works available at Biblioteca Virtual Miguel de Cervantes. It can be run in [this link](https://w.wiki/TJbo) using the Wikidata SPARQL endpoint. 
 
 ```
 SELECT ?work ?workLabel ?origin 
@@ -29,7 +29,6 @@ WHERE {
 {  
   BIND("Wikidata" as ?origin)
   ?work wdt:P50 wd:Q34189.
-  
 }
 UNION
 {
