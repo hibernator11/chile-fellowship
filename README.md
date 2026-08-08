@@ -19,6 +19,32 @@ This work was done as part of a fellowship at the Pontificia Universidad Católi
 
 The Eltit-Rosenfeld Archive is a documentary collection created by the artist Lotty Rosenfeld and the writer Diamela Eltit in the late 1980s and early 1990s to preserve the testimonies and memory of the women’s movement for the right to vote in Chile. The folder datos includes the original XML data and the RDF generated as part of this work.
 
+## Example of queries
+
+This example of SPARQL query retrieves the works of the author Pablo Neruda in Wikidata combined with the works available at Biblioteca Virtual Miguel de Cervantes. 
+
+```
+SELECT ?work ?workLabel ?origin 
+WHERE {
+{  
+  BIND("Wikidata" as ?origin)
+  ?work wdt:P50 wd:Q34189.
+  
+}
+UNION
+{
+  BIND("BVMC" as ?origin)
+  wd:Q34189 wdt:P2799 ?id
+  BIND(uri(concat("https://data.cervantesvirtual.com/person/", ?id)) as ?bvmcID)
+  SERVICE <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> {
+    ?bvmcID <http://rdaregistry.info/Elements/a/authorOf> ?work .
+    ?work rdfs:label ?workLabel
+  }
+}
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es". }
+} 
+```
+
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
