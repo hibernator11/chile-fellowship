@@ -48,6 +48,27 @@ UNION
 } 
 ```
 
+## Data quality
+
+Shape Expressions were automatically generated to assess the outputs. Below is an example to assess the quality of the resources typed as schema:CreativeWork.
+
+```
+:CreativeWork
+{
+   rdf:type  [schema:CreativeWork]  ;                          # 100.0 %
+   schema:encodingFormat  xsd:string  ;                        # 100.0 %
+   schema:license  IRI  ;                                      # 100.0 %
+   schema:isPartOf  IRI  ;                                     # 100.0 %
+   schema:sourceOrganization  IRI  ;                           # 100.0 %
+   schema:additionalType  xsd:string  ;                        # 100.0 %
+   schema:name  xsd:string  ;                                  # 100.0 %
+   schema:abstract  xsd:string  ;                              # 100.0 %
+   schema:datePublished  xsd:string  ;                         # 100.0 %
+   schema:identifier  xsd:string  ?
+            # 98.50746268656717 % obj: xsd:string. Cardinality: {1}
+}
+```
+
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>.
 
