@@ -23,6 +23,8 @@ The following figure illustrates the data modelling process to transform the tra
 
 <img src="modelling.png" width="75%">
 
+In addition, a RAG experiment was performed which is available in this [folder](rag).
+
 ## Example of queries
 
 This example of SPARQL query retrieves the works of the author Pablo Neruda in Wikidata combined with the works available at [Biblioteca Virtual Miguel de Cervantes](https://data.cervantesvirtual.com). It can be run in [this link](https://w.wiki/TJbo) using the Wikidata SPARQL endpoint. 
