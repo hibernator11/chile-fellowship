@@ -1,0 +1,61 @@
+PREFIX schema: <https://schema.org/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ex: <https://example.org/>
+PREFIX : <http://weso.es/shapes/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX schema: <http://schema.org/>
+PREFIX void: <http://rdfs.org/ns/void#>
+PREFIX creativeCommons: <http://creativecommons.org/ns#>
+PREFIX dc: <http://purl.org/dc/terms/>
+PREFIX bibo: <http://purl.org/ontology/bibo/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX brick: <https://brickschema.org/schema/Brick#>
+PREFIX csvw: <http://www.w3.org/ns/csvw#>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX dcmitype: <http://purl.org/dc/dcmitype/>
+PREFIX dcam: <http://purl.org/dc/dcam/>
+PREFIX doap: <http://usefulinc.com/ns/doap#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX geo: <http://www.opengis.net/ont/geosparql#>
+PREFIX odrl: <http://www.w3.org/ns/odrl/2/>
+PREFIX org: <http://www.w3.org/ns/org#>
+PREFIX prof: <http://www.w3.org/ns/dx/prof/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX sh: <http://www.w3.org/ns/shacl#>
+PREFIX sosa: <http://www.w3.org/ns/sosa/>
+PREFIX ssn: <http://www.w3.org/ns/ssn/>
+PREFIX time: <http://www.w3.org/2006/time#>
+PREFIX vann: <http://purl.org/vocab/vann/>
+PREFIX wgs: <https://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xml: <http://www.w3.org/XML/1998/namespace/>
+
+:CreativeWork
+{
+   rdf:type  [schema:CreativeWork]  ;                          # 100.0 %
+   schema:encodingFormat  xsd:string  ;                        # 100.0 %
+   schema:license  IRI  ;                                      # 100.0 %
+   schema:isPartOf  IRI  ;                                     # 100.0 %
+   schema:sourceOrganization  IRI  ;                           # 100.0 %
+   schema:additionalType  xsd:string  ;                        # 100.0 %
+   schema:name  xsd:string  ;                                  # 100.0 %
+   schema:abstract  xsd:string  ;                              # 100.0 %
+   schema:datePublished  xsd:string  ;                         # 100.0 %
+   schema:identifier  xsd:string  ?
+            # 98.50746268656717 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:Person
+{
+   rdf:type  [schema:Person]  ;                                # 100.0 %
+   rdf:type  [foaf:Person]  ;                                  # 100.0 %
+   foaf:name  xsd:string  +;                                   # 100.0 %
+   skos:prefLabel  xsd:string  +;                              # 100.0 %
+   schema:name  xsd:string  +                                  # 100.0 %
+}
+
+
