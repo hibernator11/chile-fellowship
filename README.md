@@ -23,7 +23,15 @@ The following figure illustrates the data modelling process to transform the tra
 
 <img src="modelling.png" width="75%">
 
-In addition, a RAG experiment was performed which is available in this [folder](rag).
+In addition, a RAG experiment was performed which is available in this [folder](rag). In order to run the experiment in a local environment the following Python packages are requied:
+
+```
+llama-index-core
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+llama-index-vector-stores-chroma
+chromadb
+```
 
 ## Example of queries
 
