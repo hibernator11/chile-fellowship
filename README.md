@@ -58,6 +58,18 @@ UNION
 } 
 ```
 
+### Archives from Chile in Wikidata
+
+```
+select ?s ?sLabel
+where {
+  ?s wdt:P31 wd:Q1224984.
+  ?s wdt:P17 wd:Q298 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en". }
+}
+limit 10
+```
+
 ## Data quality
 
 Shape Expressions were automatically generated to assess the outputs. Below is an example to assess the quality of the resources typed as schema:CreativeWork.
