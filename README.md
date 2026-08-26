@@ -34,8 +34,15 @@ chromadb
 ```
 
 ### Museo Histórico Nacional - Galería Pintura histórica. Iconos y trayectorias 
+The creation of the Academy of Painting (1849), the development of history painting, and the valorization of 18th-century works with content considered historical (such as the work of José Gil de Castro) are fundamental to understanding pictorial art as a pedagogical instrument used by the Chilean state to construct a national identity.
 
-https://www.mhn.gob.cl/galeria/pintura-historica-iconos-y-trayectorias
+The works produced and promoted contributed to creating a [gallery of figures](https://www.mhn.gob.cl/galeria/pintura-historica-iconos-y-trayectorias), events, and symbols that were to be officially remembered, while establishing a set of archetypes that were reproduced in other forms of representation.
+
+### Archivo Koen Wessing
+Digital archive consisting of a representative selection of images taken by Dutch photographer Koen Wessing. The images come from a donation made by the Nederlands Fotomuseum, courtesy of Hollandse Hoogte, The Netherlands.
+
+https://collectie.nederlandsfotomuseum.nl/results
+https://cenfoto.udp.cl/colecciones-cenfoto/coleccion-koen-wessing/
 
 ## Example of queries
 
