@@ -15,7 +15,7 @@ This work was done as part of a fellowship at the Pontificia Universidad Católi
 
 ## Use cases
 
-- Archivo Eltit - Rosenfeld available at https://archivospatrimoniales.uc.cl/handle/123456789/31557
+### Archivo Eltit - Rosenfeld available at https://archivospatrimoniales.uc.cl/handle/123456789/31557
 
 The Eltit-Rosenfeld Archive is a documentary collection created by the artist Lotty Rosenfeld and the writer Diamela Eltit in the late 1980s and early 1990s to preserve the testimonies and memory of the women’s movement for the right to vote in Chile. The folder datos includes the original XML data and the RDF generated as part of this work.
 
@@ -32,6 +32,10 @@ llama-index-llms-ollama
 llama-index-vector-stores-chroma
 chromadb
 ```
+
+### Museo Histórico Nacional - Galería Pintura histórica. Iconos y trayectorias 
+
+https://www.mhn.gob.cl/galeria/pintura-historica-iconos-y-trayectorias
 
 ## Example of queries
 
