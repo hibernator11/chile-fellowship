@@ -23,7 +23,7 @@ The following figure illustrates the data modelling process to transform the tra
 
 <img src="modelling.png" width="75%">
 
-In addition, a RAG experiment was performed which is available in this [folder](rag). In order to run the experiment in a local environment the following Python packages are requied:
+In addition, a RAG experiment was performed which is available in this [folder](rag). In order to run the experiment in a local environment the following Python packages are required:
 
 ```
 llama-index-core
@@ -34,7 +34,7 @@ chromadb
 ```
 
 ### Museo Histórico Nacional - Galería Pintura histórica. Iconos y trayectorias 
-The creation of the Academy of Painting (1849), the development of history painting, and the valorization of 18th-century works with content considered historical (such as the work of José Gil de Castro) are fundamental to understanding pictorial art as a pedagogical instrument used by the Chilean state to construct a national identity.
+The creation of the Academy of Painting (1849), the development of history painting, and the valorisation of 18th-century works with content considered historical (such as the work of José Gil de Castro) are fundamental to understanding pictorial art as a pedagogical instrument used by the Chilean state to construct a national identity.
 
 The works produced and promoted contributed to creating a [gallery of figures](https://www.mhn.gob.cl/galeria/pintura-historica-iconos-y-trayectorias), events, and symbols that were to be officially remembered, while establishing a set of archetypes that were reproduced in other forms of representation.
 
