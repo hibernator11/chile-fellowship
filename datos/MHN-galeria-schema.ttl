@@ -1,0 +1,372 @@
+@prefix schema: <https://schema.org/> .
+@prefix mhn: <https://data.mhn.cl/painting/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+##################################################
+# MUSEUM
+##################################################
+
+mhn:MuseoHistoricoNacional
+    a schema:Organization ;
+    schema:name "Museo Histórico Nacional de Chile" ;
+    schema:url <https://www.mhn.gob.cl/> ;
+    schema:description
+        "National Historical Museum of Chile." .
+
+
+##################################################
+# ARTISTS
+##################################################
+
+mhn:ManuelAntonioCaro
+    a schema:Person ;
+    schema:name "Manuel Antonio Caro" .
+
+mhn:TomasVandorse
+    a schema:Person ;
+    schema:name "Tomás Vandorse" .
+
+mhn:RaymondMonvoisin
+    a schema:Person ;
+    schema:name "Raymond Quinsac de Monvoisin" .
+
+mhn:JuanFranciscoGonzalez
+    a schema:Person ;
+    schema:name "Juan Francisco González" .
+
+mhn:PedroLira
+    a schema:Person ;
+    schema:name "Pedro Lira" .
+
+mhn:JoseGilDeCastro
+    a schema:Person ;
+    schema:name "José Gil de Castro y Morales" .
+
+
+##################################################
+# HISTORICAL PERSONS
+##################################################
+
+mhn:BernardoOHiggins
+    a schema:Person ;
+    schema:name "Bernardo O'Higgins Riquelme" .
+
+mhn:ManuelBulnes
+    a schema:Person ;
+    schema:name "Manuel Bulnes Prieto" .
+
+mhn:JoseMiguelCarrera
+    a schema:Person ;
+    schema:name "José Miguel Carrera" .
+
+mhn:PedroDeValdivia
+    a schema:Person ;
+    schema:name "Pedro de Valdivia" .
+
+
+##################################################
+# HISTORICAL EVENTS
+##################################################
+
+mhn:AbdicationOHiggins
+    a schema:Event ;
+    schema:name "Abdication of Bernardo O'Higgins" ;
+    schema:startDate "1823-01-28"^^xsd:date ;
+    schema:location mhn:Santiago .
+
+mhn:BattleChacabuco
+    a schema:Event ;
+    schema:name "Battle of Chacabuco" ;
+    schema:startDate "1817-02-12"^^xsd:date .
+
+mhn:ExecutionCarrera
+    a schema:Event ;
+    schema:name "Execution of José Miguel Carrera" ;
+    schema:startDate "1821-09-04"^^xsd:date ;
+    schema:location mhn:Mendoza .
+
+mhn:FoundationSantiago
+    a schema:Event ;
+    schema:name "Foundation of Santiago" ;
+    schema:startDate "1541-02-12"^^xsd:date ;
+    schema:location mhn:Santiago .
+
+
+##################################################
+# PLACES
+##################################################
+
+mhn:Santiago
+    a schema:Place ;
+    schema:name "Santiago, Chile" .
+
+mhn:Mendoza
+    a schema:Place ;
+    schema:name "Mendoza, Argentina" .
+
+
+##################################################
+# PAINTING 1
+# LA ABDICACIÓN DE O'HIGGINS
+##################################################
+
+mhn:Painting01
+    a schema:VisualArtwork ;
+
+    schema:name "La abdicación de O'Higgins" ;
+
+    schema:creator mhn:ManuelAntonioCaro ;
+
+    schema:dateCreated "1875" ;
+
+    schema:artform "Historical painting" ;
+
+    schema:artMedium "Oil on canvas" ;
+
+    schema:width [
+        a schema:QuantitativeValue ;
+        schema:value "191"^^xsd:decimal ;
+        schema:unitText "cm"
+    ] ;
+
+    schema:height [
+        a schema:QuantitativeValue ;
+        schema:value "160.5"^^xsd:decimal ;
+        schema:unitText "cm"
+    ] ;
+
+    schema:about mhn:AbdicationOHiggins ;
+    schema:about mhn:BernardoOHiggins ;
+
+    schema:description
+        "Historical painting depicting the abdication of Bernardo O'Higgins in 1823. The composition represents the transfer of political power during the formation of the Chilean Republic." ;
+
+    schema:identifier "SUR MHN 3-143" ;
+
+    schema:holdingArchive mhn:MuseoHistoricoNacional .
+
+
+##################################################
+# PAINTING 2
+# BATALLA DE CHACABUCO
+##################################################
+
+mhn:Painting02
+    a schema:VisualArtwork ;
+
+    schema:name "Batalla de Chacabuco" ;
+
+    schema:creator mhn:TomasVandorse ;
+
+    schema:artform "Historical painting" ;
+
+    schema:artMedium "Oil on canvas" ;
+
+    schema:width [
+        a schema:QuantitativeValue ;
+        schema:value "153"^^xsd:decimal ;
+        schema:unitText "cm"
+    ] ;
+
+    schema:height [
+        a schema:QuantitativeValue ;
+        schema:value "105.5"^^xsd:decimal ;
+        schema:unitText "cm"
+    ] ;
+
+    schema:about mhn:BattleChacabuco ;
+
+    schema:description
+        "Historical painting representing the Battle of Chacabuco, fought on 12 February 1817. The battle was a decisive military event in the Chilean independence process." ;
+
+    schema:identifier "SUR MHN 3-239" ;
+
+    schema:holdingArchive mhn:MuseoHistoricoNacional .
+
+
+##################################################
+# PAINTING 3
+# RETRATO DEL GENERAL MANUEL BULNES PRIETO
+##################################################
+
+mhn:Painting03
+    a schema:VisualArtwork ;
+
+    schema:name "Retrato del General Manuel Bulnes Prieto" ;
+
+    schema:creator mhn:RaymondMonvoisin ;
+
+    schema:dateCreated "1843" ;
+
+    schema:artform "Portrait painting" ;
+
+    schema:artMedium "Oil on canvas" ;
+
+    schema:width [
+        a schema:QuantitativeValue ;
+        schema:value "140"^^xsd:decimal ;
+        schema:unitText "cm"
+    ] ;
+
+    schema:height [
+        a schema:QuantitativeValue ;
+        schema:value "228"^^xsd:decimal ;
+        schema:unitText "cm"
+    ] ;
+
+    schema:about mhn:ManuelBulnes ;
+
+    schema:description
+        "Portrait of General Manuel Bulnes Prieto, representing his military authority and political leadership as President of Chile." ;
+
+    schema:identifier "MHN 3-205" ;
+
+    schema:holdingArchive mhn:MuseoHistoricoNacional .
+
+
+##################################################
+# PAINTING 4
+# ÚLTIMOS MOMENTOS DEL GENERAL
+# DON JOSÉ MIGUEL CARRERA
+##################################################
+
+mhn:Painting04
+    a schema:VisualArtwork ;
+
+    schema:name
+        "Últimos momentos del General Don José Miguel Carrera" ;
+
+    schema:creator mhn:JuanFranciscoGonzalez ;
+
+    schema:dateCreated "1878" ;
+
+    schema:artform "Historical painting" ;
+
+    schema:artMedium "Oil on canvas" ;
+
+    schema:width [
+        a schema:QuantitativeValue ;
+        schema:value "290"^^xsd:decimal ;
+        schema:unitText "cm"
+    ] ;
+
+    schema:height [
+        a schema:QuantitativeValue ;
+        schema:value "233"^^xsd:decimal ;
+        schema:unitText "cm"
+    ] ;
+
+    schema:about mhn:ExecutionCarrera ;
+    schema:about mhn:JoseMiguelCarrera ;
+
+    schema:description
+        "Historical painting depicting the final moments and execution of José Miguel Carrera in Mendoza, Argentina, on 4 September 1821. The work is a copy of a painting by José Manuel Blanes." ;
+
+    schema:identifier "MHN 3-124" ;
+
+    schema:holdingArchive mhn:MuseoHistoricoNacional .
+
+
+##################################################
+# PAINTING 5
+# LA FUNDACIÓN DE SANTIAGO
+##################################################
+
+mhn:Painting05
+    a schema:VisualArtwork ;
+
+    schema:name "La fundación de Santiago" ;
+
+    schema:creator mhn:PedroLira ;
+
+    schema:dateCreated "1888" ;
+
+    schema:artform "Historical painting" ;
+
+    schema:artMedium "Oil on canvas" ;
+
+    schema:width [
+        a schema:QuantitativeValue ;
+        schema:value "400"^^xsd:decimal ;
+        schema:unitText "cm"
+    ] ;
+
+    schema:height [
+        a schema:QuantitativeValue ;
+        schema:value "250"^^xsd:decimal ;
+        schema:unitText "cm"
+    ] ;
+
+    schema:about mhn:FoundationSantiago ;
+    schema:about mhn:PedroDeValdivia ;
+
+    schema:description
+        "Historical painting representing the foundation of Santiago by Pedro de Valdivia on 12 February 1541. The work illustrates the historical narrative of Spanish colonisation in Chile." ;
+
+    schema:identifier "SUR MHN 3-2703" ;
+
+    schema:holdingArchive mhn:MuseoHistoricoNacional .
+
+
+##################################################
+# PAINTING 6
+# RETRATO DEL CAPITÁN GENERAL
+# BERNARDO O'HIGGINS RIQUELME
+##################################################
+
+mhn:Painting06
+    a schema:VisualArtwork ;
+
+    schema:name
+        "Retrato del Capitán General Bernardo O'Higgins Riquelme" ;
+
+    schema:creator mhn:JoseGilDeCastro ;
+
+    schema:dateCreated "1820" ;
+
+    schema:artform "Portrait painting" ;
+
+    schema:artMedium "Oil on canvas" ;
+
+    schema:width [
+        a schema:QuantitativeValue ;
+        schema:value "152.5"^^xsd:decimal ;
+        schema:unitText "cm"
+    ] ;
+
+    schema:height [
+        a schema:QuantitativeValue ;
+        schema:value "220"^^xsd:decimal ;
+        schema:unitText "cm"
+    ] ;
+
+    schema:about mhn:BernardoOHiggins ;
+
+    schema:description
+        "Portrait depicting Bernardo O'Higgins as a military and political leader during the Chilean independence period. The composition includes military decorations and symbols of republican authority." ;
+
+    schema:identifier "SUR MHN 3-269" ;
+
+    schema:holdingArchive mhn:MuseoHistoricoNacional .
+
+
+##################################################
+# COLLECTION
+##################################################
+
+mhn:PaintingCollection
+    a schema:Collection ;
+
+    schema:name "Colección de Pinturas y Estampas" ;
+
+    schema:holdingArchive
+        mhn:MuseoHistoricoNacional ;
+
+    schema:hasPart
+        mhn:Painting01 ,
+        mhn:Painting02 ,
+        mhn:Painting03 ,
+        mhn:Painting04 ,
+        mhn:Painting05 ,
+        mhn:Painting06 .
