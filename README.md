@@ -38,10 +38,6 @@ The creation of the Academy of Painting (1849), the development of history paint
 
 The works produced and promoted contributed to creating a [gallery of figures](https://www.mhn.gob.cl/galeria/pintura-historica-iconos-y-trayectorias), events, and symbols that were to be officially remembered, while establishing a set of archetypes that were reproduced in other forms of representation.
 
-### Archivo Koen Wessing
-The [Universidad Diego Portales](https://cenfoto.udp.cl/colecciones-cenfoto/coleccion-koen-wessing/) in Chile hots a digital archive consisting of a representative selection of images taken by Dutch photographer Koen Wessing. The images come from a donation made by the [Nederlands Fotomuseum](https://collectie.nederlandsfotomuseum.nl/results), courtesy of Hollandse Hoogte, The Netherlands. An example can be found [here](https://collectie.nederlandsfotomuseum.nl/details/museum/19665) 
-
-
 ## Example of queries
 
 This example of SPARQL query retrieves the works of the author Pablo Neruda in Wikidata combined with the works available at [Biblioteca Virtual Miguel de Cervantes](https://data.cervantesvirtual.com). It can be run in [this link](https://w.wiki/TJbo) using the Wikidata SPARQL endpoint. 
@@ -105,8 +101,12 @@ Shape Expressions were automatically generated to assess the outputs. Below is a
 
 Please, note that the datasets used in this project have separate licences.
 
-## Acknowledgements
+## Additional use cases
+#### Archivo Koen Wessing
+The [Universidad Diego Portales](https://cenfoto.udp.cl/colecciones-cenfoto/coleccion-koen-wessing/) in Chile hots a digital archive consisting of a representative selection of images taken by Dutch photographer Koen Wessing. The images come from a donation made by the [Nederlands Fotomuseum](https://collectie.nederlandsfotomuseum.nl/results), courtesy of Hollandse Hoogte, The Netherlands. An example can be found [here](https://collectie.nederlandsfotomuseum.nl/details/museum/19665) 
 
+
+## Acknowledgements
 We would like to thank the Pontificia Universidad Católica de Chile for giving us the opportunity to perform this work as part of a fellowship.
 
 ## References
