@@ -132,6 +132,7 @@ mhn:Painting01
     schema:dateCreated "1875" ;
     schema:artform "Historical painting" ;
     schema:artMedium "Oil on canvas" ;
+    schema:url <https://www.mhn.gob.cl/sites/www.mhn.gob.cl/files/2021-04/2_abdicacion--Ohiggins.jpg> ;
     schema:width [
         a schema:QuantitativeValue ;
         schema:value "191"^^xsd:decimal ;
@@ -161,6 +162,7 @@ mhn:Painting02
     schema:name "Batalla de Chacabuco" ;
     schema:creator mhn:TomasVandorse ;
     schema:artform "Historical painting" ;
+    schema:url <https://www.mhn.gob.cl/sites/www.mhn.gob.cl/files/2021-04/batalla.jpg> ;
     schema:artMedium "Oil on canvas" ;
     schema:width [
         a schema:QuantitativeValue ;
@@ -189,6 +191,7 @@ mhn:Painting03
     schema:name "Retrato del General Manuel Bulnes Prieto" ;
     schema:creator mhn:RaymondMonvoisin ;
     schema:dateCreated "1843" ;
+    schema:url <https://www.mhn.gob.cl/sites/www.mhn.gob.cl/files/2021-04/bulnes.jpg> ;
     schema:artform "Portrait painting" ;
     schema:artMedium "Oil on canvas" ;
     schema:width [
@@ -221,6 +224,7 @@ mhn:Painting04
     schema:creator mhn:JuanFranciscoGonzalez ;
     schema:dateCreated "1878" ;
     schema:artform "Historical painting" ;
+    schema:url <https://www.mhn.gob.cl/sites/www.mhn.gob.cl/files/2021-04/carrera.jpg> ;
     schema:artMedium "Oil on canvas" ;
     schema:width [
         a schema:QuantitativeValue ;
@@ -251,6 +255,7 @@ mhn:Painting05
     schema:creator mhn:PedroLira ;
     schema:dateCreated "1888" ;
     schema:artform "Historical painting" ;
+    schema:url <https://www.mhn.gob.cl/sites/www.mhn.gob.cl/files/2021-04/fundacion--santiago.jpg> ;
     schema:artMedium "Oil on canvas" ;
     schema:width [
         a schema:QuantitativeValue ;
@@ -283,6 +288,7 @@ mhn:Painting06
     schema:creator mhn:JoseGilDeCastro ;
     schema:dateCreated "1820" ;
     schema:artform "Portrait painting" ;
+    schema:url <https://www.mhn.gob.cl/sites/www.mhn.gob.cl/files/2021-04/ohiggins.jpg> ;
     schema:artMedium "Oil on canvas" ;
     schema:width [
         a schema:QuantitativeValue ;
@@ -307,7 +313,10 @@ mhn:Painting06
 
 mhn:PaintingCollection
     a schema:Collection ;
-    schema:name "Colección de Pinturas y Estampas" ;
+    schema:name "Pintura histórica. Iconos y trayectorias" ;
+    schema:url <https://www.mhn.gob.cl/galeria/pintura-historica-iconos-y-trayectorias> ;
+    schema:description 
+        "Las obras fueron albergadas y exhibidas en diferentes instituciones públicas a lo largo del siglo XIX y principios del XX. Muchas fueron valoradas como instrumento para dar a conocer la historia del país, y llegaron a integrar las colecciones del Museo Histórico Nacional. Actualmente, forman parte de la Colección de Pinturas y Estampas." ;
     schema:holdingArchive
         mhn:MuseoHistoricoNacional ;
     schema:hasPart
