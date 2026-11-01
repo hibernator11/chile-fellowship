@@ -12,15 +12,17 @@ This work was done as part of a fellowship at the [Pontificia Universidad Catól
 - Nico Larrondo, Pontificia Universidad Católica de Chile
 - Paul Spence, King's College London
 
+## Methodology
+
+The following figure illustrates the data modelling process to transform the traditional metadata to Linked Open Data using as main ontology [Schema.org](https://schema.org/). 
+
+<img src="modelling.png" width="75%">
+
 ## Use cases
 
 ### Archivo Eltit - Rosenfeld
 
 The [Eltit-Rosenfeld Archive](https://archivospatrimoniales.uc.cl/handle/123456789/31557) is a documentary collection created by the artist Lotty Rosenfeld and the writer Diamela Eltit in the late 1980s and early 1990s to preserve the testimonies and memory of the women’s movement for the right to vote in Chile. The folder datos includes the original XML data and the RDF generated as part of this work.
-
-The following figure illustrates the data modelling process to transform the traditional metadata to Linked Open Data using as main ontology [Schema.org](https://schema.org/). 
-
-<img src="modelling.png" width="75%">
 
 In addition, a RAG experiment was performed which is available in this [folder](rag). In order to run the experiment in a local environment the following Python packages are required:
 
