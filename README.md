@@ -114,3 +114,5 @@ We would like to thank the [Pontificia Universidad Católica de Chile](https://w
 - https://www.glamlabs.io/
 - https://collectionsasdata.github.io/
 - https://www.uc.cl/agenda/actividad/charla-magistral-institucional-del-dr-gustavo-candela-romero
+
+- Gustavo Candela, Meltem Dişli, Paul Spence, Cezary Rosiński, and Arkadiusz Margraf. 2026. Leveraging the use of knowledge graphs to extract Collections as Data: a Spanish Civil War use case. J. Comput. Cult. Herit. Just Accepted (October 2026). https://doi.org/10.1145/3858335
