@@ -19,6 +19,7 @@ The following figure illustrates the data modelling process to transform the tra
 <img src="modelling.png" width="75%">
 
 ## Use cases
+This section describes the two use cases that we selected to apply the methodology proposed in this work.
 
 ### Archivo Eltit - Rosenfeld
 
@@ -35,8 +36,8 @@ chromadb
 ```
 
 ### Museo Histórico Nacional - Galería Pintura histórica. Iconos y trayectorias 
-This notebooks shows how to reuse the RDF generated using as source [paintings from the MHN](https://www.mhn.gob.cl/galeria/pintura-historica-iconos-y-trayectorias). In particular, an exhibition showcasing iconic works of historical painting, highlighting the artists, stories, and artistic trajectories that have shaped Chile’s cultural and historical identity.
 
+This use case shows how to reuse the RDF generated using as source [paintings from the MHN](https://www.mhn.gob.cl/galeria/pintura-historica-iconos-y-trayectorias). In particular, an exhibition showcasing iconic works of historical painting, highlighting the artists, stories, and artistic trajectories that have shaped Chile’s cultural and historical identity.
 
 ## Data quality
 
