@@ -2,7 +2,7 @@
 @prefix mhn: <https://data.mhn.cl/painting/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix wd: <http://www.wikidata.org/entity/ .
+@prefix wd: <http://www.wikidata.org/entity/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 
 ##################################################
