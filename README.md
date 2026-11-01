@@ -1,10 +1,10 @@
 # chile-fellowship
-Reproducible code to create Collection as data as part of the fellowship at the Pontificia Universidad Católica de Chile
+This work was created as part of a fellowship at the [Pontificia Universidad Católica de Chile](https://www.uc.cl/) in August 2026. It provides a selection of use cases to create Collections as data and reproducible code.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/chile-fellowship/HEAD)
 
 ## Introduction
-This work was done as part of a fellowship at the Pontificia Universidad Católica de Chile in August 2026. Several collections were selected and transformed into RDF using reproducible code. The datasets were reused using different methods and techniques.
+This work was done as part of a fellowship at the [Pontificia Universidad Católica de Chile]([https://www.uc.cl/](https://www.uc.cl/agenda/actividad/charla-magistral-institucional-del-dr-gustavo-candela-romero)) in August 2026. Several collections were selected and transformed into RDF using reproducible code. The datasets were reused using different methods and techniques.
 
 ## Authors
 
@@ -99,6 +99,7 @@ Shape Expressions were automatically generated to assess the outputs. Below is a
 Please, note that the datasets used in this project have separate licences.
 
 ## Additional use cases
+
 #### Archivo Koen Wessing
 The [Universidad Diego Portales](https://cenfoto.udp.cl/colecciones-cenfoto/coleccion-koen-wessing/) in Chile hots a digital archive consisting of a representative selection of images taken by Dutch photographer Koen Wessing. The images come from a donation made by the [Nederlands Fotomuseum](https://collectie.nederlandsfotomuseum.nl/results), courtesy of Hollandse Hoogte, The Netherlands. An example can be found [here](https://collectie.nederlandsfotomuseum.nl/details/museum/19665) 
 
@@ -110,3 +111,4 @@ We would like to thank the Pontificia Universidad Católica de Chile for giving 
 
 - https://www.glamlabs.io/
 - https://collectionsasdata.github.io/
+- https://www.uc.cl/agenda/actividad/charla-magistral-institucional-del-dr-gustavo-candela-romero
