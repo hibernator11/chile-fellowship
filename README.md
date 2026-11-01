@@ -2,6 +2,7 @@
 This work was created as part of a fellowship at the [Pontificia Universidad Católica de Chile](https://www.uc.cl/) in August 2026. It provides a selection of use cases to create Collections as data and reproducible code.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/chile-fellowship/HEAD)
+[![DOI](https://zenodo.org/badge/1326797195.svg)](https://doi.org/10.5281/zenodo.23854811)
 
 ## Introduction
 This work was done as part of a fellowship at the [Pontificia Universidad Católica de Chile]([https://www.uc.cl/](https://www.uc.cl/agenda/actividad/charla-magistral-institucional-del-dr-gustavo-candela-romero)) in August 2026. Several collections were selected and transformed into RDF using reproducible code. The datasets were reused using different methods and techniques.
