@@ -6,7 +6,6 @@ Reproducible code to create Collection as data as part of the fellowship at the 
 ## Introduction
 This work was done as part of a fellowship at the Pontificia Universidad Católica de Chile in August 2026. Several collections were selected and transformed into RDF using reproducible code. The datasets were reused using different methods and techniques.
 
-
 ## Authors
 
 - Gustavo Candela, University of Alicante
@@ -34,11 +33,9 @@ chromadb
 ```
 
 ### Museo Histórico Nacional - Galería Pintura histórica. Iconos y trayectorias 
-The creation of the Academy of Painting (1849), the development of history painting, and the valorisation of 18th-century works with content considered historical (such as the work of José Gil de Castro) are fundamental to understanding pictorial art as a pedagogical instrument used by the Chilean state to construct a national identity.
+This notebooks shows how to reuse the RDF generated using as source [paintings from the MHN](https://www.mhn.gob.cl/galeria/pintura-historica-iconos-y-trayectorias). In particular, an exhibition showcasing iconic works of historical painting, highlighting the artists, stories, and artistic trajectories that have shaped Chile’s cultural and historical identity.
 
-The works produced and promoted contributed to creating a [gallery of figures](https://www.mhn.gob.cl/galeria/pintura-historica-iconos-y-trayectorias), events, and symbols that were to be officially remembered, while establishing a set of archetypes that were reproduced in other forms of representation.
-
-## Example of queries
+## Example of SPARQL queries for Wikidata
 
 This example of SPARQL query retrieves the works of the author Pablo Neruda in Wikidata combined with the works available at [Biblioteca Virtual Miguel de Cervantes](https://data.cervantesvirtual.com). It can be run in [this link](https://w.wiki/TJbo) using the Wikidata SPARQL endpoint. 
 
