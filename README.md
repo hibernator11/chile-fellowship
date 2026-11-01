@@ -35,42 +35,6 @@ chromadb
 ### Museo Histórico Nacional - Galería Pintura histórica. Iconos y trayectorias 
 This notebooks shows how to reuse the RDF generated using as source [paintings from the MHN](https://www.mhn.gob.cl/galeria/pintura-historica-iconos-y-trayectorias). In particular, an exhibition showcasing iconic works of historical painting, highlighting the artists, stories, and artistic trajectories that have shaped Chile’s cultural and historical identity.
 
-## Example of SPARQL queries for Wikidata
-
-This example of SPARQL query retrieves the works of the author Pablo Neruda in Wikidata combined with the works available at [Biblioteca Virtual Miguel de Cervantes](https://data.cervantesvirtual.com). It can be run in [this link](https://w.wiki/TJbo) using the Wikidata SPARQL endpoint. 
-
-```
-SELECT ?work ?workLabel ?origin 
-WHERE {
-{  
-  BIND("Wikidata" as ?origin)
-  ?work wdt:P50 wd:Q34189.
-}
-UNION
-{
-  BIND("BVMC" as ?origin)
-  wd:Q34189 wdt:P2799 ?id
-  BIND(uri(concat("https://data.cervantesvirtual.com/person/", ?id)) as ?bvmcID)
-  SERVICE <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> {
-    ?bvmcID <http://rdaregistry.info/Elements/a/authorOf> ?work .
-    ?work rdfs:label ?workLabel
-  }
-}
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "es". }
-} 
-```
-
-### Archives from Chile in Wikidata
-
-```
-select ?s ?sLabel
-where {
-  ?s wdt:P31 wd:Q1224984.
-  ?s wdt:P17 wd:Q298 .
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en". }
-}
-limit 10
-```
 
 ## Data quality
 
@@ -100,12 +64,50 @@ Please, note that the datasets used in this project have separate licences.
 
 ## Additional use cases
 
+Additional use cases were explored during this work that are described below. They are based on additional data repositories and Wikidata.
+
 #### Archivo Koen Wessing
 The [Universidad Diego Portales](https://cenfoto.udp.cl/colecciones-cenfoto/coleccion-koen-wessing/) in Chile hots a digital archive consisting of a representative selection of images taken by Dutch photographer Koen Wessing. The images come from a donation made by the [Nederlands Fotomuseum](https://collectie.nederlandsfotomuseum.nl/results), courtesy of Hollandse Hoogte, The Netherlands. An example can be found [here](https://collectie.nederlandsfotomuseum.nl/details/museum/19665) 
 
+#### Example of SPARQL queries for Wikidata
+
+This example of SPARQL query retrieves the works of the author Pablo Neruda in Wikidata combined with the works available at [Biblioteca Virtual Miguel de Cervantes](https://data.cervantesvirtual.com). It can be run in [this link](https://w.wiki/TJbo) using the Wikidata SPARQL endpoint. 
+
+```
+SELECT ?work ?workLabel ?origin 
+WHERE {
+{  
+  BIND("Wikidata" as ?origin)
+  ?work wdt:P50 wd:Q34189.
+}
+UNION
+{
+  BIND("BVMC" as ?origin)
+  wd:Q34189 wdt:P2799 ?id
+  BIND(uri(concat("https://data.cervantesvirtual.com/person/", ?id)) as ?bvmcID)
+  SERVICE <http://data.cervantesvirtual.com/openrdf-sesame/repositories/data> {
+    ?bvmcID <http://rdaregistry.info/Elements/a/authorOf> ?work .
+    ?work rdfs:label ?workLabel
+  }
+}
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "es". }
+} 
+```
+
+##### Archives from Chile in Wikidata
+
+```
+select ?s ?sLabel
+where {
+  ?s wdt:P31 wd:Q1224984.
+  ?s wdt:P17 wd:Q298 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en". }
+}
+limit 10
+```
 
 ## Acknowledgements
-We would like to thank the Pontificia Universidad Católica de Chile for giving us the opportunity to perform this work as part of a fellowship.
+We would like to thank the [Pontificia Universidad Católica de Chile](https://www.uc.cl/) for giving us the opportunity to perform this work as part of a fellowship.
 
 ## References
 
