@@ -2,6 +2,7 @@
 This work was created as part of a fellowship at the [Pontificia Universidad Católica de Chile](https://www.uc.cl/) in August 2026. It provides a selection of use cases to create Collections as data and reproducible code.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/chile-fellowship/HEAD)
+[![Binder](https://binder.eu-2.notebooks.open-science-cloud.ec.europa.eu/badge_logo.svg)](https://binder.eu-2.notebooks.open-science-cloud.ec.europa.eu/v2/gh/hibernator11/chile-fellowship/HEAD)
 [![DOI](https://zenodo.org/badge/1326797195.svg)](https://doi.org/10.5281/zenodo.23854811)
 
 ## Introduction
